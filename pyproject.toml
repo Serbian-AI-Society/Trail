@@ -1,0 +1,33 @@
+[tool.poetry]
+name = "Laik"
+version = "0.1.0"
+description = ""
+authors = ["Milutin-S <studen.m98@gmail.com>"]
+readme = "README.md"
+package-mode = false
+
+
+[tool.poetry.dependencies]
+python = "^3.10"
+beautifulsoup4 = "^4.12.3"
+jupyter = "^1.0.0"
+lxml = "^5.1.0"
+tqdm = "^4.66.2"
+qdrant-client = "^1.8.0"
+python-dotenv = "^1.0.1"
+tiktoken = "^0.6.0"
+openai = "^1.14.2"
+loguru = "^0.7.2"
+aiohttp = "^3.9.3"
+pyyaml = "^6.0.1"
+streamlit = "^1.32.2"
+backoff = "^2.2.1"
+langfuse = "^2.27.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+[theme] 
+backgroundColor="#FFA421"

@@ -1,0 +1,11 @@
+openai:
+  embeddings:
+    model:  "text-embedding-3-small"
+    dimensions: 1536
+  chat:
+    model:  "gpt-4o"
+    temperature: 0
+    max_conversation: 100
+  router:
+    model: "gpt-3.5-turbo"
+    temperature: 0
