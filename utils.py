@@ -34,9 +34,9 @@ Veš mašina mi samo gužva odeću, šta da radim?\n
 """
 
 AUTHORS = """
-**Research Engineer:** [Lazar Radosavljev](https://www.linkedin.com/in/milutin-studen/)\n
-**Research Engineer:** [Emil Mijatov]\n
-**Research Engineer:** [Aleksa Skoric](https://www.linkedin.com/in/aleksa-škorić-0502b2197\n)
+**Research Engineer:** Emil Mijatov\n
+**Research Engineer:** Aleksa Skoric\n
+**Research Engineer:** Lazar Radosavljev
 """
 
 
