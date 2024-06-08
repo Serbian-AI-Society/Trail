@@ -1,0 +1,373 @@
+{"model": "text-embedding-3-small", "id": 0, "input": "['SR  \u041c\u0430\u0448\u0438\u043d\u0430 \u0437\u0430 \u043f\u0440\u0430\u045a\u0435 \u043f\u043e\u0441\u0443\u0452\u0430 / \u041a\u043e\u0440\u0438\u0441\u043d\u0438\u0447\u043a\u043e \u0443\u043f\u0443\u0442\u0441\u0442\u0432\u043e\\n LC15A22IXE\\n\\nSADR\u017dAJ\\nUpoznavanje sa ure\u00f1ajem\\nPreporuke i mere bezbednosti .']"}
+{"model": "text-embedding-3-small", "id": 1, "input": "['5\\nInstalacija ma\u0161ine za pranje posu\u00f1a .']"}
+{"model": "text-embedding-3-small", "id": 2, "input": "['10\\nPriprema ma\u0161ine za upotrebu.']"}
+{"model": "text-embedding-3-small", "id": 3, "input": "['17\\nPunjenje ma\u0161ine posu\u00f1em .']"}
+{"model": "text-embedding-3-small", "id": 4, "input": "['22\\nOpis programa pranja .']"}
+{"model": "text-embedding-3-small", "id": 5, "input": "['26\\nUklju\u010denje ma\u0161ine i biranje programa pranja .']"}
+{"model": "text-embedding-3-small", "id": 6, "input": "['29\\n\u010ci\u0161\u0107enje i odr\u017eavanje.']"}
+{"model": "text-embedding-3-small", "id": 7, "input": "['31\\nKodovi gre\u0161aka sa re\u0161enjima .']"}
+{"model": "text-embedding-3-small", "id": 8, "input": "['33\\nPrakti\u010dne i korisne informacije .']"}
+{"model": "text-embedding-3-small", "id": 9, "input": "['27\\n\u2022 Tehni\u010dke karkateristike .']"}
+{"model": "text-embedding-3-small", "id": 10, "input": "['3\\n\u2022 Odlaganje otpada .']"}
+{"model": "text-embedding-3-small", "id": 11, "input": "['5\\n\u2022 Bezbednosne informacije .']"}
+{"model": "text-embedding-3-small", "id": 12, "input": "['5\\n\u2022 Preporuke .']"}
+{"model": "text-embedding-3-small", "id": 13, "input": "['9\\n\u2022 Neprikladni predmeti za pranje u ma\u0161ini.']"}
+{"model": "text-embedding-3-small", "id": 14, "input": "['9\\n\u2022 Biranje mesta za ma\u0161inu.']"}
+{"model": "text-embedding-3-small", "id": 15, "input": "['10\\n\u2022 Priklju\u010denje vode .']"}
+{"model": "text-embedding-3-small", "id": 16, "input": "['11\\n\u2022 Crevo za dovod vode .']"}
+{"model": "text-embedding-3-small", "id": 17, "input": "['11\\n\u2022 Crevo za odvod vode .']"}
+{"model": "text-embedding-3-small", "id": 18, "input": "['12\\n\u2022 Priklju\u010denje ma\u0161ine na napajanje .']"}
+{"model": "text-embedding-3-small", "id": 19, "input": "['14\\n\u2022 Ugra\u00f1ivanje ma\u0161ine ispod kuhinjske radne plo\u010de.']"}
+{"model": "text-embedding-3-small", "id": 20, "input": "['15\\n\u2022 Ukoliko ma\u0161inu koristite prvi put.. .']"}
+{"model": "text-embedding-3-small", "id": 21, "input": "['17\\n\u2022 Kvalitet vode\\n  .']"}
+{"model": "text-embedding-3-small", "id": 22, "input": "['17\\n\u2022 Punjenje ma\u0161ine solju za omek\u0161avanje  .']"}
+{"model": "text-embedding-3-small", "id": 23, "input": "['.17\\n\u2022 Test-traka za tvrdo\u0107u vode    .']"}
+{"model": "text-embedding-3-small", "id": 24, "input": "['18\\n\u2022 Regulacija potro\u0161nje soli .']"}
+{"model": "text-embedding-3-small", "id": 25, "input": "['18\\n\u2022 Kori\u0161\u0107enje deterd\u017eenta .']"}
+{"model": "text-embedding-3-small", "id": 26, "input": "['.20\\n\u2022 Punjenje odeljka pra\u0161kom za pranje ili tabletama .']"}
+{"model": "text-embedding-3-small", "id": 27, "input": "['20\\n\u2022 Kori\u0161\u0107enje razli\u010ditih pra\u0161aka za pranje ili tableta .']"}
+{"model": "text-embedding-3-small", "id": 28, "input": "['.20\\n\u2022 Punjenje ma\u0161ine sredstvom za ispiranje .']"}
+{"model": "text-embedding-3-small", "id": 29, "input": "['21\\n\u2022 Gornja korpa .']"}
+{"model": "text-embedding-3-small", "id": 30, "input": "['22\\n\u2022 Donja korpa.']"}
+{"model": "text-embedding-3-small", "id": 31, "input": "['24\\n\u2022 Punjenje korpi .']"}
+{"model": "text-embedding-3-small", "id": 32, "input": "['24\\n\u2022 Programske stavke .']"}
+{"model": "text-embedding-3-small", "id": 33, "input": "['26\\n\u2022 Uklju\u010denje ma\u0161ine.']"}
+{"model": "text-embedding-3-small", "id": 34, "input": "['29\\n\u2022 Pra\u0107enje programa .']"}
+{"model": "text-embedding-3-small", "id": 35, "input": "['29\\n\u2022 Promena programa pranja .']"}
+{"model": "text-embedding-3-small", "id": 36, "input": "['29\\n\u2022 Promena programa uz otkazivanje trenutnog programa pranja .']"}
+{"model": "text-embedding-3-small", "id": 37, "input": "['30\\n\u2022 Isklju\u010denje ma\u0161ine.']"}
+{"model": "text-embedding-3-small", "id": 38, "input": "['30\\n\u2022 Filteri .']"}
+{"model": "text-embedding-3-small", "id": 39, "input": "['31\\n\u2022 Raspr\u0161iva\u010di vode (mlaznice) .']"}
+{"model": "text-embedding-3-small", "id": 40, "input": "['32\\n\u2022 Filter na crevu za dovod vode .']"}
+{"model": "text-embedding-3-small", "id": 41, "input": "['32\\n1\\n35\\n\\n2\\n1.\\nornja plo\u010da\\n12.']"}
+{"model": "text-embedding-3-small", "id": 42, "input": "['Uskla\u0111enost sa standardima i podaci o tes.ranju / \\nDeklaracija EU o uskla\u0111enos.']"}
+{"model": "text-embedding-3-small", "id": 43, "input": "['Ovaj proizvod zadovoljava zahteve svih primenljivih direktiva EU\\nsa odgovaraju\u0107im harmonizovanim standardima, koji pru\u017eaju oznaku CE.']"}
+{"model": "text-embedding-3-small", "id": 44, "input": "['Uskla\u0111enost sa standardima i podaci o testiranju / \\nDeklaracija EZ o uskla\u0111enosti\\nSve faze u vezi sa ma\u0161inom se obavljaju u skladu sa \\nbezbednosnim pravilima koja se nalaze u svim va\u017ee\u0107im \\ndirektivama Evropske zajednice.']"}
+{"model": "text-embedding-3-small", "id": 45, "input": "['2004/108/EC, 2006/95/\\nEC,IEC 436/DIN 44990, EN 50242\\n\\n5\\nBEZBEDNOSNE INFORMACIJE I PREPORUKE\\nRecikla\u017ea\\n\u2022 Odre\u0111ene komponente i ambala\u017ea va\u0161e ma\u0161ine su \\nproizvedeni od materijala koji se mogu reciklirati.']"}
+{"model": "text-embedding-3-small", "id": 46, "input": "['\u2022 Plasti\u010dni delovi su ozna\u010deni me\u0111unarodnim skra\u0107enicama: \\n \\n(>PE< , >PS< , >POM<, >PP<, )\\n\u2022 Kartonski delovi su proizvedeni od recikliranog papira i treba \\nih odlo\u017eiti u za to predvi\u0111ene spremnike za recikla\u017eu.']"}
+{"model": "text-embedding-3-small", "id": 47, "input": "['\u2022 Takvi materijali nisu pogodni za odlaganje u kante za sme\u0107e.']"}
+{"model": "text-embedding-3-small", "id": 48, "input": "['Umesto toga, treba ih isporu\u010diti centrima za recikla\u017eu.']"}
+{"model": "text-embedding-3-small", "id": 49, "input": "['\u2022 Kontaktirajte odgovaraju\u0107e centre da biste dobili informaciju \\no na\u010dinima i ta\u010dkama za odlaganje.']"}
+{"model": "text-embedding-3-small", "id": 50, "input": "['Bezbednosne informacije\\nPrilikom preuzimanja isporuke va\u0161e ma\u0161ine\\n\u2022 Proverite da li na ma\u0161ini ili ambala\u017ei postoji o\u0161te\u0107enje.']"}
+{"model": "text-embedding-3-small", "id": 51, "input": "['Nikada \\nnemojte da pokre\u0107ete ma\u0161inu ni na koji na\u010din, postarajte se \\nda kontaktirate ovla\u0161\u0107eni servis.']"}
+{"model": "text-embedding-3-small", "id": 52, "input": "['\u2022 Odmotajte ambala\u017eu kao \u0161to je nazna\u010deno i odlo\u017eite je u \\nskladu sa propisima.']"}
+{"model": "text-embedding-3-small", "id": 53, "input": "['Prilikom instalacije ma\u0161ine obratite pa\u017enju na slede\u0107e:\\n\u2022 Odaberite odgovaraju\u0107u, sigurnu i ravnu podlogu na koju \\n\u0107ete staviti ma\u0161inu.']"}
+{"model": "text-embedding-3-small", "id": 54, "input": "['\u2022 Instalaciju i povezivanje ma\u0161ine napravite u skladu sa \\nslede\u0107im uputstvima.. \\n\u2022 Ovu ma\u0161inu treba da instaliraju i popravljaju isklju\u010divo \\novla\u0161\u0107eni servisi.']"}
+{"model": "text-embedding-3-small", "id": 55, "input": "['\u2022 Sa ma\u0161inom treba koristiti isklju\u010divo originalne rezervne \\ndelove.']"}
+{"model": "text-embedding-3-small", "id": 56, "input": "['\u2022 Pre instalacije proverite da li je ma\u0161ina isklju\u010dena \\n\\n6\\nsa napajanja.']"}
+{"model": "text-embedding-3-small", "id": 57, "input": "['\u2022 Proverite da li je sistem elektri\u010dnih osigura\u010da povezan\\nu skladu sa propisima.']"}
+{"model": "text-embedding-3-small", "id": 58, "input": "['\u2022 Sva poovezivanja sa napajanjem treba da budu u skladu sa\\nvrednostima navedenim na plo\u010dici sa podacima na ure\u0111aju.']"}
+{"model": "text-embedding-3-small", "id": 59, "input": "['\u2022 Obratite posebnu pa\u017enju da kabl za napajanje ne bude\\nprignje\u010den ma\u0161inom.']"}
+{"model": "text-embedding-3-small", "id": 60, "input": "['\u2022 Nikada nemojte da koristite produ\u017eni kabl ili vi\u0161estruku\\nuti\u010dnicu za priklju\u010divanje napajanja.']"}
+{"model": "text-embedding-3-small", "id": 61, "input": "['Nakon instalacije ma\u0161ine\\nmorate da budete u mogu\u0107nosti da na jednostavan na\u010din\\npristupite utika\u010du.']"}
+{"model": "text-embedding-3-small", "id": 62, "input": "['\u2022 Nakon instalacije ma\u0161ine na odgovaraju\u0107em mestu,\\npokrenite praznu ma\u0161inu.']"}
+{"model": "text-embedding-3-small", "id": 63, "input": "['Svakodnevna upotreba\\n\u2022 Ovaj ure\u0111aj je namenjen samo za ku\u0107nu upotrebu; nemojte \\nda ga koristite u druge svrhe.']"}
+{"model": "text-embedding-3-small", "id": 64, "input": "['Upotrebom ure\u0111aja u \\nkomercijalne svrhe gubite prava na garanciju.']"}
+{"model": "text-embedding-3-small", "id": 65, "input": "['\u2022Ne penjite se, ne sedajte ili ne stavljajte teret na otvorena \\nvrata\\nma\u0161ine za pranje posu\u0111a, mo\u017ee se prevrnuti.']"}
+{"model": "text-embedding-3-small", "id": 66, "input": "['\u2022Nikada ne koristite deterd\u017eente i sredstva za ispiranje koja \\nnisu specijalno proizvedena za ma\u0161ine za pranje su\u0111a.']"}
+{"model": "text-embedding-3-small", "id": 67, "input": "['U \\nsuprotnom, na\u0161a kompanija ne\u0107e biti odgovorna za \u0161tetu \\nkoja mo\u017ee nastati na va\u0161oj ma\u0161ini.']"}
+{"model": "text-embedding-3-small", "id": 68, "input": "['\u2022Usled opasnosti od eksplozije, nemojte da stavljate u \\nodeljak za pranje u ma\u0161ini bilo koja\\nhemijska sredstva za rastvaranje kao \u0161to su rastvara\u010di.']"}
+{"model": "text-embedding-3-small", "id": 69, "input": "['7\\n\u2022 Pre pranja plasti\u010dkih posuda u ma\u0161ini, proverite da li su \\notporni na toplotu.']"}
+{"model": "text-embedding-3-small", "id": 70, "input": "['\u2022Ovaj ure\u0111aj mogu da koriste deca starosti 8 i vi\u0161e godina \\ni osobe sa smanjenim fizi\u010dkim, senzornim ili metalnim \\nsposobnostima ili nedostatkom iskustva i znanja ukoliko se \\nnalaze pod nadzorom ili ako su obu\u010deni u vezi sa upotrebom \\nure\u0111ana na bezbedan na\u010din i razumeju obuhva\u0107ene opasnosti.']"}
+{"model": "text-embedding-3-small", "id": 71, "input": "['Zabranjeno je da se deca igraju ure\u0111ajem.Korisni\u010dko \u010di\u0161\u0107enje \\ni odr\u017eavanje ne smeju da obavljaju deca bez nadzora..\\n\u2022 U ma\u0161inu ne stavljajte one delove koji nisu pogodni za \\npranje u ma\u0161ini za su\u0111e.']"}
+{"model": "text-embedding-3-small", "id": 72, "input": "['Tako\u0111e, nemojte da punite korpe \\niznad njihovih kapaciteta.U suprotnom na\u0161a kompanija ne\u0107e \\nbiti odgovorna za bilo koje ogrebotine ili r\u0111u na unutra\u0161njem \\nramu va\u0161e ma\u0161ine usled pomeranja korpe.']"}
+{"model": "text-embedding-3-small", "id": 73, "input": "['\u2022 Naro\u010dito usled toga \u0161to vrela voda mo\u017ee da istekne, vrata \\nma\u0161ine ne treba otvarati pod bilo kojim okolnostima dok \\nje ma\u0161ina u radu.']"}
+{"model": "text-embedding-3-small", "id": 74, "input": "['U svakom slu\u010daju, bezbednosni ure\u0111aji \\nobezbe\u0111uju zaustavljanje ma\u0161ine ako se vrata otvore.']"}
+{"model": "text-embedding-3-small", "id": 75, "input": "['\u2022 Ne ostavljajte otvorena vrata ma\u0161ine.']"}
+{"model": "text-embedding-3-small", "id": 76, "input": "['U suprotnom, mo\u017ee \\ndo\u0107i do nesre\u0111nih slu\u010dajeva.']"}
+{"model": "text-embedding-3-small", "id": 77, "input": "['\u2022 No\u017eeve i druge o\u0161tre predmete smestite u korpe tako da \\no\u0161tricom budu okrenuti prema dole.']"}
+{"model": "text-embedding-3-small", "id": 78, "input": "['\u2022 Ako je kabl za napajanje o\u0161te\u0107en, njega mora da zameni\\nproizvo\u0111a\u010d, njegov radnik servisa ili sli\u010dne kvalifikovane \\nosobe da bi se izbegla opasnost.']"}
+{"model": "text-embedding-3-small", "id": 79, "input": "['\u2022Lica (uklju\u010duju\u0107i -\\ndecu) sa ograni\u010denim fizi\u010dkim i mentalnim sposobnostima i \\nlica bez iskustva i znanja za upotrebu, ne bi trebalo da koriste \\nure\u0111aj, osim ako nisu pod nadzorom osobe odgovorne za \\nnjihovu bezbednost ili imaju uputstva za upotrebu ure\u0111aja.']"}
+{"model": "text-embedding-3-small", "id": 80, "input": "['\u2022 Ako je opcija EnergySave izabrana, vrata \u0107e se otvoriti\\n\\n8\\nna kraju programa.']"}
+{"model": "text-embedding-3-small", "id": 81, "input": "['Nemojte na silu da zatvarate vrata da \\nbiste izbegli o\u0161te\u0107enje mehanizma za automatski kontroli \\nvrata tokom 1 minuta.']"}
+{"model": "text-embedding-3-small", "id": 82, "input": "['vrata moraju biti otvorena tokom 30 \\nminuta da bi se postiglo efikasno su\u0161enje.']"}
+{"model": "text-embedding-3-small", "id": 83, "input": "['(kod modela sa \\nsistemom za automatsko otvaranje vrata)\\nUpozorenje: Do not stand in front of the door after the signal \\nsounds belonging auto-open.']"}
+{"model": "text-embedding-3-small", "id": 84, "input": "['Bezbednost dece\\n\u2022 Nakon va\u0111enja ma\u0161ine iz ambala\u017ee, ambala\u017eu odlo\u017eite na \\nmesto koje je van doma\u0161aja dece.']"}
+{"model": "text-embedding-3-small", "id": 85, "input": "['\u2022 Ne dozvoljavajte deci da se igraju ili pokre\u0107u ma\u0161inu za \\nposu\u0111e.']"}
+{"model": "text-embedding-3-small", "id": 86, "input": "['\u2022 Dr\u017eite decu podalje od deterd\u017eenata i sredstava za ispiranje.']"}
+{"model": "text-embedding-3-small", "id": 87, "input": "['\u2022 Dr\u017eite decu podalje od ma\u0161ine kada je otvorena jer se u njoj \\ni dalje mogu nalaziti ostaci sredstava za \u010di\u0161\u0107enje.']"}
+{"model": "text-embedding-3-small", "id": 88, "input": "['\u2022 Postarajte se da va\u0161a stara ma\u0161ina ne predstavlja bilo \\nkakvu pretnju po va\u0161u decu.']"}
+{"model": "text-embedding-3-small", "id": 89, "input": "['Poznato je da su deca uspevala \\nda se zaklju\u010daju u starim ma\u0161inama.']"}
+{"model": "text-embedding-3-small", "id": 90, "input": "['Da biste spre\u010dili takvu \\nsituaciju, polomite kvaku na vratima ma\u0161ine i pokidajte \\nelektri\u010dne kablove.']"}
+{"model": "text-embedding-3-small", "id": 91, "input": "['U slu\u010daju kvara ma\u0161ine\\n\u2022 Svaki kvar ma\u0161ine trebao bi da bude popravljen od strane \\novla\u0161\u0107enog servisera.']"}
+{"model": "text-embedding-3-small", "id": 92, "input": "['U slu\u010daju samostalnog popravljanja \\ngubite prava na garanciju.']"}
+{"model": "text-embedding-3-small", "id": 93, "input": "['\u2022 Pre bilo kakvih popravaka proverite da li ste odspojili ure\u0111aj \\nsa napajanja.']"}
+{"model": "text-embedding-3-small", "id": 94, "input": "['Isklju\u010dite ma\u0161inu, odspojite utika\u010d iz uti\u010dnice \\ni zaustavite dovod vode.']"}
+{"model": "text-embedding-3-small", "id": 95, "input": "['Nemojte da isklju\u010dujete utika\u010d \\npovla\u010denjem kabla.']"}
+{"model": "text-embedding-3-small", "id": 96, "input": "['Postarajte se da isklju\u010dite slavinu za \\nvodu.']"}
+{"model": "text-embedding-3-small", "id": 97, "input": "['9\\nPreporuke\\n\u2022 Za u\u0161tedu elektri\u010dne energije i vode, pre stavljanja posu\u0111a \\nu ma\u0161inu odstranite ostatke  hrane.']"}
+{"model": "text-embedding-3-small", "id": 98, "input": "['Pokrenite ma\u0161inu nakon \\n\u0161to je u potpunosti napunite.']"}
+{"model": "text-embedding-3-small", "id": 99, "input": "['\u2022 Program pretpranja koristite samo ukoliko je pretpranje \\nposu\u0111a neophodno.']"}
+{"model": "text-embedding-3-small", "id": 100, "input": "['\u2022 Posu\u0111e kao \u0161to su zdele, \u010da\u0161e ili dublje posude smestite\\nu ma\u0161inu tako da su okrenute prema dole.']"}
+{"model": "text-embedding-3-small", "id": 101, "input": "['\u2022 Preporu\u010duje se da u ma\u0161inu ne stavljate posu\u0111e koje nije \\npredvi\u0111eno za takvu vrstu pranja.']"}
+{"model": "text-embedding-3-small", "id": 102, "input": "['Predmeti neprikladni za pranje u ma\u0161ini:\\n\u2022 Pepeljare, stalci za sve\u0107e, predmeti koji su ispolirani ili \\noslikani, predmeti\\nod legure gvo\u017e\u0111a;\\n\u2022 Vilju\u0161ke, ka\u0161ike i no\u017eevi sa dr\u0161kama od drveta, belokosti ili \\nsedefa; lepljeni pribor ili pribor isprljan abrazivnim sredstvima, \\nkiselinama ili hemikalijama.']"}
+{"model": "text-embedding-3-small", "id": 103, "input": "['\u2022 Plasti\u010dni predmeti koji nisu termi\u010dki otporni, bakreni predmeti \\ni predmeti\\nkoji su emajlovani.']"}
+{"model": "text-embedding-3-small", "id": 104, "input": "['\u2022 Aluminiski predmeti, predmeti od srebra (ukoliko ih perete u \\nma\u0161ini mogu da izgube prirodnu boju i potamne).']"}
+{"model": "text-embedding-3-small", "id": 105, "input": "['\u2022 Odre\u0111ene vrste \u010da\u0161a koje su izra\u0111ene od osetljivijeg stakla, \\nporcelan ukra\u0161en ornamentalnim uzorcima koji u slu\u010daju \\npranja u ma\u0161ini izblede ve\u0107 nakon prvog pranja, odre\u0111ene \\nvrste kristala koje tekom vremena mogu da izgube prozirnost, \\nodre\u0111ene vrste pribora za jelo koji nije termi\u010dki otporan, \\nkristalne \u010da\u0161e, daske za rezanje, predmeti od sinteti\u010dkog \\nvlakna;\\n\\n10\\n\u2022 Upijaju\u0107i predmeti kao \u0161to su spu\u017eve ili kuhinjske krpe.']"}
+{"model": "text-embedding-3-small", "id": 106, "input": "['Upozorenje:Ukoliko kupujete novo posu\u0111e proverite da li je \\npredvi\u0111eno za pranje uma\u0161ini.']"}
+{"model": "text-embedding-3-small", "id": 107, "input": "['INSTALACIJA SUDOMA\u0160INE\\nName\u0161tanje ma\u0161ine\\nIzaberite prostor i mesto na kojem \u0107ete na jednostavan na\u010din \\nmo\u0107i da stavljate i vadite posu\u0111e iz ma\u0161ine.']"}
+{"model": "text-embedding-3-small", "id": 108, "input": "['Ne stavljajte ma\u0161inu u prostor gde postoji mogu\u0107nost od pada \\ntemperature ispod 0 \u00b0C.']"}
+{"model": "text-embedding-3-small", "id": 109, "input": "['Pre sme\u0161taja ma\u0161ine odvojite svu ambala\u017eu shodno sa \\nuputstvima navedenim na pakovanju.']"}
+{"model": "text-embedding-3-small", "id": 110, "input": "['Smestite ma\u0161inu u blizinu dovoda vode.']"}
+{"model": "text-embedding-3-small", "id": 111, "input": "['Potrebno je da \\npostavite ma\u0161inu uzimaju\u0107i u obzir to da veze ma\u0161ine ne\u0107e \\nbiti menjane nakon uspostavljanja.']"}
+{"model": "text-embedding-3-small", "id": 112, "input": "['Nemojte da dr\u017eite ma\u0161inu za vrata ili plo\u010du da biste je pomerili.']"}
+{"model": "text-embedding-3-small", "id": 113, "input": "['Ostavite dovoljno prostora sa svih strana ma\u0161ine kako bi je \\nmogli lagano pomerati napred i nazad prilikom \u010di\u0161\u0107enja.']"}
+{"model": "text-embedding-3-small", "id": 114, "input": "['Creva za dovod i odvod vode i kabl za napajanje postavite \\nna takav na\u010din da nisu savinute i ni\u010dim prignje\u010dne.']"}
+{"model": "text-embedding-3-small", "id": 115, "input": "['Tako\u0111e, \\npostarajte se da se ma\u0161ina ne nalazi na elektri\u010dnom kablu.']"}
+{"model": "text-embedding-3-small", "id": 116, "input": "['Podesite podesive no\u017eice ma\u0161ine tako da ona stoji ravno i \\nbalansirano.']"}
+{"model": "text-embedding-3-small", "id": 117, "input": "['Na taj na\u010din osiguravate i pravilno otvaranje / \\nzatvaranje vrata ma\u0161ine.']"}
+{"model": "text-embedding-3-small", "id": 118, "input": "['Ako ne mo\u017eete pravilno da zatvorite vrata, proverite da li je \\nma\u0161ina stabilna.']"}
+{"model": "text-embedding-3-small", "id": 119, "input": "['Ako nije, podesite je uz pomo\u0107 niveliraju\u0107ih \\nnogica.']"}
+{"model": "text-embedding-3-small", "id": 120, "input": "['11\\nPriklju\u010denje ma\u0161ine na dovod vode\\nProverite da li su vodovodna creva prikladna za dovod vode i \\ninstalaciju ma\u0161ine.']"}
+{"model": "text-embedding-3-small", "id": 121, "input": "['Tako\u0111e, preporu\u010dujemo upotrebu filtra na \\ndovodu vode u stan kako biste spre\u010dili eventualna o\u0161te\u0107enja \\nma\u0161ine uzrokovana prljav\u0161tinom poput peska, zemlje, r\u0111e i \\nsl.']"}
+{"model": "text-embedding-3-small", "id": 122, "input": "['koja se povremeno mo\u017ee preneti vodovodnim cevima ili \\nunutra\u0161njim vodovodnim instalacijama, kao i da biste spre\u010dili \\npojavu \u017eutih naslaga i formacija nakon pranja.']"}
+{"model": "text-embedding-3-small", "id": 123, "input": "['Crevo za dovod vode\\nPreporu\u010dujemo upotrebu creva za dovod \\nvode koje ste dobili sa ma\u0161inom; nemojte \\nda koristite crevo za dovod vode od stare \\nma\u0161ine.']"}
+{"model": "text-embedding-3-small", "id": 124, "input": "['Ukoliko spajate ma\u0161inu na dovod \\nvode koji niste koristili du\u017ei period vremena, \\npre spajanja pustite vodu Crevo za \\ndovod vode spojite direktno na priklju\u010dak.']"}
+{"model": "text-embedding-3-small", "id": 125, "input": "['Preporu\u010deni pritisak na priklju\u010dku je od \\nminimalnih 0,03 Mpa do maksimalnih 1 \\nMpa.']"}
+{"model": "text-embedding-3-small", "id": 126, "input": "['Ukoliko je pritisak vode ve\u0107i od 1 Mpa \\npotrebno je da izme\u0111u creva i priklju\u010dka \\npostavite sigurnosni ventil koji se otvara na \\npovi\u0161eni pritisak-.']"}
+{"model": "text-embedding-3-small", "id": 127, "input": "['Nakon priklju\u010dka otvorite dovod vode i proverite tvrdo\u0107u vode.']"}
+{"model": "text-embedding-3-small", "id": 128, "input": "['Radi sigurnosti ma\u0161ine nakon svakog pranja preporu\u010dljivo je \\nda zatvorite dovod vode nakon zavr\u0161etka svakog programa.']"}
+{"model": "text-embedding-3-small", "id": 129, "input": "['12\\nNAPOMENA: Neki modeli imaju \\nAquastop \\npriklju\u010dak.']"}
+{"model": "text-embedding-3-small", "id": 130, "input": "['U \\nslu\u010daju \\nkori\u0161\u0107enja Aquastop-a, postoji opasan \\npritisak.Nmojte da se\u010dete Aquastop \\npriklju\u010dak.']"}
+{"model": "text-embedding-3-small", "id": 131, "input": "['ne dozvoljavajte da se \\nsavije ili uvrne.']"}
+{"model": "text-embedding-3-small", "id": 132, "input": "['Crevo za odvod vode \\nCrevo za odvod vode mo\u017ee je da se \\npriklju\u010di direktno na odvod vode ili stavi \\nu sudoper.']"}
+{"model": "text-embedding-3-small", "id": 133, "input": "['Kori\u0161\u0107enjem specijalno\\nsavijenog creva (ukoliko je dostupno)\\nvoda mo\u017ee da oteca i direktno u\\nsudoper sa odvodom.']"}
+{"model": "text-embedding-3-small", "id": 134, "input": "['Spoj treba da\\nbude izveden izme\u0111u (minimalno) 50\\ncm i 110 cm (maksimalno) od poda.']"}
+{"model": "text-embedding-3-small", "id": 135, "input": "['Priklju\u010denje ma\u0161ine na dovod vode:\\nZabele\u017eite od\u0161tampani tekst na crevu dovoda vode!']"}
+{"model": "text-embedding-3-small", "id": 136, "input": "['Ako su modeli ozna\u010deni sa 25\u00b0, temperatura vode ne sme \\npre\u0107i 25 \u00b0C (hladna voda).']"}
+{"model": "text-embedding-3-small", "id": 137, "input": "['Za sve druge modele:\\nPo\u017eeljna je hladna voda; vru\u0107a voda na maksimalnoj\\ntemperaturi od 60 \u00b0C.']"}
+{"model": "text-embedding-3-small", "id": 138, "input": "['13\\nUpozorenje: Ukoliko je crevo za odvod vode du\u017ee od 4 \\nm, mo\u017ee da do\u0111e do povrata vode  nazad u ma\u0161inu \u0161to \u0107e \\nizazvati ve\u0107u zaprljanost posu\u0111a U tom slu\u010daju proizvo\u0111a\u010d ne \\nsnosi odgovornost.']"}
+{"model": "text-embedding-3-small", "id": 139, "input": "['14\\nPriklju\u010denje na napajanje\\nUtika\u010d ma\u0161ine za posu\u0111e spojite na uzemljenu uti\u010dnicu \\nodgovaraju\u0107eg napona i struje.']"}
+{"model": "text-embedding-3-small", "id": 140, "input": "['Ukoliko nemate uzemljenje \\nobratite se kvalifikovanom elektri\u010daru.']"}
+{"model": "text-embedding-3-small", "id": 141, "input": "['Ukoliko ne koristite \\nuzemljene instalacije kvarovi ili \u0161tete nastale na ma\u0161ini ne \\npodle\u017eu garanciji.']"}
+{"model": "text-embedding-3-small", "id": 142, "input": "['Na utika\u010du ovog ure\u0111aja mo\u017ee se nalaziti osigura\u010d od 13 A, \\nzavisno od konkretne zemlje.']"}
+{"model": "text-embedding-3-small", "id": 143, "input": "['(na primer Velika Britanija) \\n(Na primer, Velika Britanija, Saudijska Arabija)\\nMa\u0161ina koristi napon 220~240V.']"}
+{"model": "text-embedding-3-small", "id": 144, "input": "['Ako je napon na va\u0161oj \\nlokaciji 110 V, priklju\u010dite transformator za 110/220 V i snage \\n3000 W. Ma\u0161inu ne treba priklju\u010divati na napajanje tokom \\npostavljanja.']"}
+{"model": "text-embedding-3-small", "id": 145, "input": "['Uvek koristite oblo\u017eeni utika\u010d prilo\u017een uz va\u0161u ma\u0161inu.']"}
+{"model": "text-embedding-3-small", "id": 146, "input": "['Eventualna promena kabla za napajanje mora da bude \\nizvedena od strane kvalifikovanog elektri\u010dara.']"}
+{"model": "text-embedding-3-small", "id": 147, "input": "['U suprotnom, \\nmo\u017ee do\u0107i do nesre\u0107nih slu\u010dajeva.']"}
+{"model": "text-embedding-3-small", "id": 148, "input": "['Kako bi izbegli opasnost od strujnog udara, ne iskop\u010davajte \\nure\u0111aj sa napajanja ukoliko su vam ruke mokre.']"}
+{"model": "text-embedding-3-small", "id": 149, "input": "['Zbog bezbednosti, uvek nakon zavr\u0161etka rada iskop\u010dajte \\nma\u0161inu sa napajanja.']"}
+{"model": "text-embedding-3-small", "id": 150, "input": "['Rad na manjem naponu rezulti\u0161e i \\nmanjom kvalitetom pranja.']"}
+{"model": "text-embedding-3-small", "id": 151, "input": "['15\\nUgra\u0111ivanje ma\u0161ine ispod kuhinjske radne plo\u010de\\nUkoliko ma\u0161inu \u017eelite da ugradite ispod kuhinjske radne plo\u010de \\nproverite da li imate dovoljno mesta ispod plo\u010de i da li su \\npriklju\u010dci napajanja i odvoda vode prikladni za priklju\u010divanje \\nma\u0161ine.1 Ukoliko su tra\u017eeni uslovi ispunjeni odstranite pokrov \\nma\u0161ine za pranje posu\u00f1a kao \u0161to je prikazano na slici.']"}
+{"model": "text-embedding-3-small", "id": 152, "input": "['2 \\nUpozorenje: \\nDeo, ispod kojeg postavljamo ma\u0161inu nakon skidanja njene \\nradne plo\u010de, mora  biti stabilan, tako da eventualno \\nizbacivanje iz ravnote\u017ee bude onemoguceno.']"}
+{"model": "text-embedding-3-small", "id": 153, "input": "['Niveliraju\u0107e nogice ma\u0161ine podesite zavisno od kosine \\npoda.3 Najbolji polo\u017eaj za sme\u0161taj ma\u0161ine je ispod radne \\nplo\u010de.']"}
+{"model": "text-embedding-3-small", "id": 154, "input": "['Pritom pazite da ne savijete odvodno crevo i \\npriklju\u010dak napajanja.4 \\n\\n16\\nUpozorenje: Nakon \u0161to ste uklonili gornji poklopac ma\u0161ina \\nobavezno mora biti sme\u0161tena u zatvorenom prostoru, \\ndimenzija kao \u0161to je prikazano na slici.']"}
+{"model": "text-embedding-3-small", "id": 155, "input": "['3\\n\\n17\\n3\\n1\\n4\\n2\\nSALT\\nNapunite so (AKO JE DOSTUPNA)\\nZa dobru funkciju pranja, ma\u0161ini za pranje sudova je potrebna meka, tj.']"}
+{"model": "text-embedding-3-small", "id": 156, "input": "['voda sa manje kamenca.']"}
+{"model": "text-embedding-3-small", "id": 157, "input": "['U suprotnom, \\nbeli ostaci osta\u0107e na posudama i unutra\u0161njoj opremi.']"}
+{"model": "text-embedding-3-small", "id": 158, "input": "['To \u0107e se negativno odraziti na performanse pranja, \\nsu\u0161enja i sjaja posu\u0111a u va\u0161oj ma\u0161ini.']"}
+{"model": "text-embedding-3-small", "id": 159, "input": "['ada voda te\u010de kroz sistem omek\u0161iva\u010da, joni koji formiraju tvrdo\u0107u \\nuklanjaju se iz vode i voda dosti\u017ee meko\u0107u potrebnu za postizanje najboljeg rezultata pranja.']"}
+{"model": "text-embedding-3-small", "id": 160, "input": "['U zavisnosti od \\nnivoa tvrdo\u0107e dovodne vode, ovi joni koji \u010dine vodu tvrdom nakupljaju se brzo u sistemu omek\u0161iva\u010da.']"}
+{"model": "text-embedding-3-small", "id": 161, "input": "['Stoga je \\nsistem za omek\u0161avanje potrebno osve\u017eiti da bi imao iste performanse i tokom slede\u0107eg pranja.']"}
+{"model": "text-embedding-3-small", "id": 162, "input": "['U tu svrhu \\nkoristi se so za ma\u0161ine za pranje sudova.']"}
+{"model": "text-embedding-3-small", "id": 163, "input": "['Ma\u0161ina mo\u017ee da koristi samo specijalnu sol za pranje sudova da omek\u0161a vodu.']"}
+{"model": "text-embedding-3-small", "id": 164, "input": "['Ne koristite nikakve soli malih \\nzrna ili pra\u0161kaste vrste soli koje se lako rastvaraju.']"}
+{"model": "text-embedding-3-small", "id": 165, "input": "['Upotreba bilo koje druge vrste soli mo\u017ee o\u0161tetiti va\u0161u \\nma\u0161inu.']"}
+{"model": "text-embedding-3-small", "id": 166, "input": "['18\\nOtvorite\\ntest\\ntraku\\nPustite da\\nvoda te\u010de\\nnajmanje\\n1 min.']"}
+{"model": "text-embedding-3-small", "id": 167, "input": "['pre nego\\nju ulijete u\\n\u010da\u0161u\\nUronite\\ntest\\ntraku u\\n\u010da\u0161u s\\nvodom na\\n1 sekundu\\nIzvadite je\\niz vode i\\nprotresite\\nPri\u010dekajte\\n1\\nmunutu.']"}
+{"model": "text-embedding-3-small", "id": 168, "input": "['U zavisnosti od rezultata dobijenih\\nmerenjem pomo\u0107u test trake\\npodesite tvrdo\u0107u vode ma\u0161ine.']"}
+{"model": "text-embedding-3-small", "id": 169, "input": "['Bez kamenca\\nVrlo mala konc.']"}
+{"model": "text-embedding-3-small", "id": 170, "input": "['Dosta kamenca\\nVisoka konc.']"}
+{"model": "text-embedding-3-small", "id": 171, "input": "['Pode\u0161avanje potro\u0161nje soli\\nTablica za pode\u0161avanje nivoa tvrdo\u0107e vode\\nUkoliko je tvrdo\u0107a vode koju koristite ve\u0107a od 90 dF (po francuskom standardu) ili\\nkoristite tehni\u010dku vodu preporu\u010duje se upotreba filtera i odstranjiva\u010da kamenca na\\ndovodu vode.']"}
+{"model": "text-embedding-3-small", "id": 172, "input": "['Prema fabri\u010dki pode\u0161enim postavkama sistem je pode\u0161en na nivo 3.']"}
+{"model": "text-embedding-3-small", "id": 173, "input": "['Napomena:\\nSRPSKI\\nTraka za testiranje \\nEfektivnost pranja ma\u0161ine zavisi od \u00abmeko\u0107e\u00bb vode.']"}
+{"model": "text-embedding-3-small", "id": 174, "input": "['Iz tog razloga ma\u0161ina je opremljena \\nsistemom za omek\u0161avanje vode.']"}
+{"model": "text-embedding-3-small", "id": 175, "input": "['Efikasnost pranja se pove\u0107ava kad kada je sistem \\nomek\u0161iva\u010da ispravno postavljen.. Raspitajte se o tvrdo\u0107i vode u va\u0161oj okolini, kontktirajte \\nlokalnu komunalnu slu\u017ebu ili ispitajte tvrdo\u0107u vode koriste\u0107i test za utvr\u00f1ivanje.']"}
+{"model": "text-embedding-3-small", "id": 176, "input": "['(ukoliko je \\ndostupan)  \\n \\n \\n18\\nNivo \\nNema\u010dki dH\\nFrancuski \\ndF\\nBritanski \\ndE \\nIndikator\\n1\\n0-5\\n0-9\\n0-6\\nL1 se prikazuje na ekranu.']"}
+{"model": "text-embedding-3-small", "id": 177, "input": "['2\\n6-11\\n10-20\\n7-14\\nL2 se prikazuje na ekranu.']"}
+{"model": "text-embedding-3-small", "id": 178, "input": "['3\\n12-17\\n21-30\\n15-21\\nL3 se prikazuje na ekranu.']"}
+{"model": "text-embedding-3-small", "id": 179, "input": "['4\\n18-22\\n31-40\\n22-28\\nL4 se prikazuje na ekranu.']"}
+{"model": "text-embedding-3-small", "id": 180, "input": "['5\\n23-31\\n41-55\\n29-39\\nL5 se prikazuje na ekranu.']"}
+{"model": "text-embedding-3-small", "id": 181, "input": "['6\\n32-50\\n56-90\\n40-63\\nL6 se prikazuje na ekranu.']"}
+{"model": "text-embedding-3-small", "id": 182, "input": "['19\\nDETERGENT\\nKori\u0161\u0107enje deterd\u017eenta Kori\u0161\u0107enje deterd\u017eenta\\nKoristite samo deterd\u017eente specijalno dizajnirane za doma\u0107e ma\u0161ine za pranje sudova.']"}
+{"model": "text-embedding-3-small", "id": 183, "input": "['\u010cuvajte va\u0161e \\ndeterd\u017eente na hladnim, suvim mestima i van dohvata dece.']"}
+{"model": "text-embedding-3-small", "id": 184, "input": "['Dodajte odgovaraju\u0107i deterd\u017eent za izabrani program da biste obezbedili najbolje pranje.']"}
+{"model": "text-embedding-3-small", "id": 185, "input": "['Koli\u010dina potrebnog \\ndeterd\u017eenta zavisi od ciklusa, koli\u010dine sudova i stepena zaprljanosti sudova.']"}
+{"model": "text-embedding-3-small", "id": 186, "input": "['Ne stavljajte vi\u0161e deterd\u017eenta u odeljak deterd\u017eenta nego \u0161to je potrebno; u suprotnom mo\u017eete videti beli\u010daste \\ntragove ili plavkaste slojeve na staklu i posu\u0111u i mo\u017e do\u0107i do korozije stakla.']"}
+{"model": "text-embedding-3-small", "id": 187, "input": "['Dugotrajna upotreba previ\u0161e \\ndeterd\u017eenta mo\u017ee prouzrokovati o\u0161te\u0107enje ma\u0161ine.']"}
+{"model": "text-embedding-3-small", "id": 188, "input": "['Upotreba malo deterd\u017eenta mo\u017ee dovesti do lo\u0161eg \u010di\u0161\u0107enja i mo\u017eete videti beli\u010daste fleke tvrdoj vodi.']"}
+{"model": "text-embedding-3-small", "id": 189, "input": "['Vidi uputstva proizvo\u0111a\u010da deterd\u017eenta za vi\u0161e informacija.']"}
+{"model": "text-embedding-3-small", "id": 190, "input": "['20\\nSRPSKI\\n\u2022 Kada su uslovi i ma\u0161ine i deterd\u017eenta pravilno uskla\u00f1eni, ma\u0161ina osigurava u\u0161tedu\\npotro\u0161nje soli i sredstva za ispiranje.']"}
+{"model": "text-embedding-3-small", "id": 191, "input": "['\u2022 Ukoliko ne ostvarujete dobre rezultate pranja ili su\u0161enja prilikom kori\u0161tenja\\ndeterd\u017eenata u obliku tableta (2 u 1 i 3 u 1), tj.']"}
+{"model": "text-embedding-3-small", "id": 192, "input": "['ukoliko va\u0161e posu\u00f1e ostaje nakon\\npranja mokro, kontaktirajte proizvo\u00f1a\u010da deterd\u017eenta koji koristite.']"}
+{"model": "text-embedding-3-small", "id": 193, "input": "['Garancija ma\u0161ine ne\\npokriva probleme uzrokovane kori\u0161tenjem takve vrste deterd\u017eenata.']"}
+{"model": "text-embedding-3-small", "id": 194, "input": "['Ukoliko koristite kombinovane deterd\u017eente, dodajte sredstvo za ispiranje u\\nva\u0161u ma\u0161inu, ali nivo kori\u0161tenja podesite na najni\u017eu poziciju - 1, a za postizanje boljih\\nrezultata pranja aktivirajte taster za kori\u0161tenje deterd\u017eenta u obliku tablete sme\u0161ten na\\nkontrolnoj plo\u010di.']"}
+{"model": "text-embedding-3-small", "id": 195, "input": "['Ukoliko je nivo tvrdo\u0107e vode ve\u0107i od 4, neophodno je da napunite i\\nodeljak za sol.']"}
+{"model": "text-embedding-3-small", "id": 196, "input": "['Kod brzog programa pranja ne preporu\u010duje se kori\u0161tenje kombinovanih\\ndeterd\u017eenata u obliku tableta.']"}
+{"model": "text-embedding-3-small", "id": 197, "input": "['Preporuke:\\nPunjenje ma\u0161ine sredstvom za ispiranje i njegovo pode\u0161avanje\\nUkoliko imate problem sa kojim se niste sreli ranije, prestanite sa\\nkori\u0161\u0107enjem deterd\u017eenta i obratite se za pomo\u0107 proizvo\u00f1a\u010du deterd\u017eenata.']"}
+{"model": "text-embedding-3-small", "id": 198, "input": "['Upozorenje:\\n\u2022 Napunite odeljke za sol i sredstvo za ispiranje\\n\u2022 Podesite tvrdo\u0107u vode na najvi\u0161u poziciju i pokrenite ma\u0161inu bez da je prethodno\\nnapunite posu\u00f1em.']"}
+{"model": "text-embedding-3-small", "id": 199, "input": "['\u2022 Podesite nivo tvrdo\u0107e vode.']"}
+{"model": "text-embedding-3-small", "id": 200, "input": "['Ukoliko prestanete koristiti kombinovane deterd\u017eente\\nSRPSKI\\n  \\n \\n \\n \\n \\n \\n \\n \\n \\n        \\n \\n \\n \\n \\n \\n \\n  \\n \\n \\n \\n \\n \\n \\n \\n \\n \\n \\n  Rastvorljivost \\n  u formi tableta proizvedenih\\n od           kompanija       da varira u \\nzavisnosti temperature i vremetrajanja.Zato se ne                 upotreba ovakvih  \\n     kod \\nkratkih programa za pranje.']"}
+{"model": "text-embedding-3-small", "id": 201, "input": "['Za kratke programe pranja                        upotrebu                 \\n \\n \\n \\n \\n \\n \\n \\n \\n \\n \\n \\n \\ndeterd\u017eenta\\n \\n \\n \\n \\n \\n \\n \\n \\n \\n \\n \\n \\n \\n \\n \\n \\n \\n \\n \\n \\n \\n \\n \\nrazli\u010ditih \\n \\n \\n \\n \\n \\n \\n \\n \\n \\n \\n \\n \\n \\n \\n \\n \\n \\n \\n \\nmo\u017ee \\n \\n \\n \\n \\n \\n \\n \\n \\n \\n \\n \\n \\n \\n \\n \\n \\n \\npreporu\u010duje\\n \\n \\n \\n \\n \\n \\n \\n \\n \\n \\n \\n \\n \\ndeterd\u017eenata\\n \\n \\n \\n \\n \\n \\n \\n \\n \\n \\n \\n \\n \\n \\n \\n \\n \\n \\n \\n \\n \\n \\n \\n \\n \\n \\n \\n \\n \\n \\n \\n \\n \\n \\n \\n \\n \\n \\n \\n \\n \\n \\n \\npreporu\u010dujemo \\n \\n \\n \\n \\n \\n \\n \\n \\n \\n \\n \\n \\n \\n \\n \\n \\n \\n \\n \\n \\n \\n \\npra\u0161katih \\n \\ndeterd\u017eenata.']"}
+{"model": "text-embedding-3-small", "id": 202, "input": "['Da biste napunili odeljak za sredstvo za ispiranje, otvorite poklopac odeljka za sredstvo \\nza ispiranje.']"}
+{"model": "text-embedding-3-small", "id": 203, "input": "['Napunite odeljak sredstvom za ispiranje do MAKS.']"}
+{"model": "text-embedding-3-small", "id": 204, "input": "['nivoa, a zatim zatvorite \\npoklopac.']"}
+{"model": "text-embedding-3-small", "id": 205, "input": "['Budite oprezni da ne prepunite odeljak za sredstvo za ispiranje i ako ste prosuli \\nne\u0161to, obri\u0161ite.']"}
+{"model": "text-embedding-3-small", "id": 206, "input": "['Da biste izmenili nivo sredstva za ispiranje, pratite dolenavedene korake pre nego \\n\u0161to uklju\u010dite ma\u0161inu:\\n \\nAko se posu\u0111e ne su\u0161i pravilno ili ima ta\u010dkaste mrlje, \\n \\n \\n \\npove\u0107ajte nivo.']"}
+{"model": "text-embedding-3-small", "id": 207, "input": "['Ako se na va\u0161em\\n \\n \\n \\nposu\u0111u pojave plave mrlje, smanjite nivo.']"}
+{"model": "text-embedding-3-small", "id": 208, "input": "['Nivo\\nDoza sredstva za izbeljivanje\\nIndikator\\n1\\nSredstvo za ispiranje nije oslobo\u0111eno\\nr1 \u0107e se prikazati na displeju.']"}
+{"model": "text-embedding-3-small", "id": 209, "input": "['2\\n1 doza je oslobo\u0111ena\\nr2 \u0107e se prikazati na displeju.']"}
+{"model": "text-embedding-3-small", "id": 210, "input": "['3\\n2 doze su oslobo\u0111ene\\nr3 \u0107e se prikazati na displeju.']"}
+{"model": "text-embedding-3-small", "id": 211, "input": "['4\\n3 doze su oslobo\u0111ene\\nr4 \u0107e se prikazati na displeju.']"}
+{"model": "text-embedding-3-small", "id": 212, "input": "['5\\n4 doze su oslobo\u0111ene\\nr5 \u0107e se prikazati na displeju.']"}
+{"model": "text-embedding-3-small", "id": 213, "input": "['\u2022\\nPritisnite dugme za izbor programa 5 sekundi odmah nakon \u0161to uklju\u010dite ma\u0161inu.']"}
+{"model": "text-embedding-3-small", "id": 214, "input": "['\u2022\\nPustite dugme za izbor programa kada se pojavi \u201crA\u201d.']"}
+{"model": "text-embedding-3-small", "id": 215, "input": "['Pode\u0161avanje nivoa sredstva za\\nispiranje sledi nakon pode\u0161avanja nivoa tvrdo\u0107e vode.']"}
+{"model": "text-embedding-3-small", "id": 216, "input": "['Sledi prikazivanje poslednjeg\\nnivoa pode\u0161avanja.']"}
+{"model": "text-embedding-3-small", "id": 217, "input": "['\u2022\\nPodesite nivo pritiskom dugmeta za izbor programa.']"}
+{"model": "text-embedding-3-small", "id": 218, "input": "['\u2022\\nIsklju\u010dite ma\u0161inu da sa\u010duvate pode\u0161avanje.']"}
+{"model": "text-embedding-3-small", "id": 219, "input": "['\u2022\\nFabri\u010dko pode\u0161avanje je \u201c4\u201c.']"}
+{"model": "text-embedding-3-small", "id": 220, "input": "['21\\nSRPSKI\\nPUNJENJE MA\u0160INE POSU\u00f0EM\\nUkoliko pravilno rasporedite posu\u00f1e u ma\u0161ini, pobolj\u0161avate rad ma\u0161ine uz\\nnajoptimalniju potro\u0161nju vode i energije za vreme pranja.']"}
+{"model": "text-embedding-3-small", "id": 221, "input": "['U ma\u0161ini postoje dve odvojene korpe u koje mo\u017eete da smestite posu\u00f1e.']"}
+{"model": "text-embedding-3-small", "id": 222, "input": "['Donju\\nkorpu koristite za posu\u00f1e dubljeg i okruglog dna kao \u0161to su posude sa dugim\\ndr\u0161kama, poklopci, tanjiri, \u010dinije za salatu, pribor za jelo itd.']"}
+{"model": "text-embedding-3-small", "id": 223, "input": "['Gornja korpa je napravljena na na\u010din da u nju lako sme\u0161tate tacne \u0161olja za \u010daj,\\ndesertne tanjiri\u0107e, tacne za salatu, \u0161olje i \u010da\u0161e.']"}
+{"model": "text-embedding-3-small", "id": 224, "input": "['Ukoliko stavljate \u010da\u0161e sa dugim\\ndr\u0161kama ili bokale za vodu, postavite ih uz ivicu korpe ili dr\u017ea\u010da \u010da\u0161a.']"}
+{"model": "text-embedding-3-small", "id": 225, "input": "['Ni u kojem\\nslu\u010daju ne stavljajte takve \u010da\u0161e jednu uz drugu jer prilikom pranja (s obzirom da nisu\\n\u010dvrsto pozicionirane) mogu da se razbiju.']"}
+{"model": "text-embedding-3-small", "id": 226, "input": "['Preporu\u010dujemo da takvu vrstu posu\u0111a\\nstavite u sredinu korpe.']"}
+{"model": "text-embedding-3-small", "id": 227, "input": "['Pribor za jelo smestite u za to predvi\u00f1enu malu plasti\u010dnu korpu.']"}
+{"model": "text-embedding-3-small", "id": 228, "input": "['Time \u0107ete posti\u0107i\\nnajbolje rezultate pranja.']"}
+{"model": "text-embedding-3-small", "id": 229, "input": "['Kako bi sprije\u010dili evenutalne povrede, posu\u00f1e s dugim dr\u0161kama, o\u0161trim ivicama i\\nno\u017eeve uvek smestite tako da su im o\u0161tri vrhovi okrenuti prema dole.']"}
+{"model": "text-embedding-3-small", "id": 230, "input": "['Prilikom sme\u0161tanja posu\u00f1a u ma\u0161inu pripazite da se donja i gornja\\nmlaznica mo\u017ee nesmetano okretati i prskati vodu bez zapinjanja ili udaranja od\\nposu\u00f1e.']"}
+{"model": "text-embedding-3-small", "id": 231, "input": "['Upozorenje:\\n\\n22\\nGornja korpa ma\u0161ine je u gornjoj poziciji.']"}
+{"model": "text-embedding-3-small", "id": 232, "input": "['Kada postavite gornju korpu na donju poziciju, mo\u017eete da postavite \\ni perete velike tanjire na gornjoj korpi.']"}
+{"model": "text-embedding-3-small", "id": 233, "input": "['Otvorite korpu koja sadr\u017ei delove pri kraju dr\u017ea\u010da gornje korpe okre\u0107u\u0107i ih \\nna bo\u010dnu stranu i izvadite korpu.']"}
+{"model": "text-embedding-3-small", "id": 234, "input": "['Promenite polo\u017eaj to\u010dkova; ponovo ubacite korpu na dr\u017ea\u010d i zatvorite delove za \\n\u010duvanje korpe.']"}
+{"model": "text-embedding-3-small", "id": 235, "input": "['Na ovaj na\u010din, gornja korpa je stavljena na donju poziciju.']"}
+{"model": "text-embedding-3-small", "id": 236, "input": "['Prilago\u0111avanje visine gornje korpe \\nGornja korpa\\nPrilago\u0111avanje visine sa \u017eicom\\nOve \u017eice su dizajnirane da pove\u0107aju kapacitet gornje korpe.']"}
+{"model": "text-embedding-3-small", "id": 237, "input": "['Mo\u017eete \\nda postavite \u0161olje i \u010da\u0161e na ove \u017eice.']"}
+{"model": "text-embedding-3-small", "id": 238, "input": "['Zahvaljuju\u0107i prilagodljivim \\nkarakteristikama \u017eice, mo\u017eete da postavite \u010da\u0161e razli\u010ditih veli\u010dina \\nispod \u017eice.']"}
+{"model": "text-embedding-3-small", "id": 239, "input": "['Prilago\u0111avanje visine plastike koja je montirana na \\nkorpu dopu\u0161ta \u017eici da bude u 2 razli\u010dita polo\u017eaja.']"}
+{"model": "text-embedding-3-small", "id": 240, "input": "['Tako\u0111e mo\u017eete da \\nstavite duge no\u017eeve, vilju\u0161ke i ka\u0161ike na ove \u017eice horizontalno kako \\nne bi blokirali pokretanje ru\u010dki spreja.']"}
+{"model": "text-embedding-3-small", "id": 241, "input": "['1\\n2\\nDonja korpa \\nStalci na sklapanje \\nNa donjoj korpi ma\u0161ine, postoji \u010detiri stalka za sklapanje koji su dizajnirani da vam dopuste da lak\u0161e stavite velike \\nstvari kao \u0161to su \u010dinije, tiganji, itd.']"}
+{"model": "text-embedding-3-small", "id": 242, "input": "['Ako je potrebno, svaki deo mo\u017ee odvojeno da se sklopi, ili sve mo\u017ee da se \\nsklopi i ve\u0107i prostor mo\u017ee da se dobije.']"}
+{"model": "text-embedding-3-small", "id": 243, "input": "['Da biste ih prilagodili, podignite ih na gore ili ih sklopite.']"}
+{"model": "text-embedding-3-small", "id": 244, "input": "['1\\n \\n \\n2\\n\\n23\\nGornja korpa za escajg\\nGornja korpa za escajg je dizajnirana za vilju\u0161ke, ka\u0161ike i no\u017eeve, duge posude i male stvari\\nJer lako mo\u017ee da se izvadi iz ma\u0161ine, to dopu\u0161ta posu\u0111u da se izvadi iz ma\u0161ine zajedno sa korpom nakon pranja.']"}
+{"model": "text-embedding-3-small", "id": 245, "input": "['Gornja korpa za escajg se sastoji iz dva dela; ako treba da napravite mesto za posu\u0111e na gornjoj korpi, mo\u017eete \\nda izvadite levi ili desni deo gornje korpe za escajg kako biste dobili vi\u0161e mesta.']"}
+{"model": "text-embedding-3-small", "id": 246, "input": "['Upozorenje: Vilju\u0161ke i drugi o\u0161tri objekti moraju da se stave horizontalno u korpu za escajg.']"}
+{"model": "text-embedding-3-small", "id": 247, "input": "['Donja korpa\\n24\\nGornja korpa\\nNeodgovaraju\u0107e koli\u010dina posu\u0111a\\nNepravilno stavljanje sudova mo\u017ee dovesti do lo\u0161ih rezultata pri \\npranju i su\u0161enju.']"}
+{"model": "text-embedding-3-small", "id": 248, "input": "['Sledite preporuke proizvo\u0111a\u010da da biste postigli \\ndobar u\u010dinak.']"}
+{"model": "text-embedding-3-small", "id": 249, "input": "['25 \\nSRPSKI\\nPogre\u0161no napunjene korpe za posu\u00f1e\\nVa\u017ena napomena za testiranje labaratorije.']"}
+{"model": "text-embedding-3-small", "id": 250, "input": "['U va\u0161oj poruci napi\u0161ite ime modela i serijski broj (20 cifre), kog \\nmo\u017eete na\u0107i na vrata ure\u0111aja.']"}
+{"model": "text-embedding-3-small", "id": 251, "input": "[\"26\\nABELA PROGRAMA\\nP1\\nP2\\nP3\\nP4\\nP5\\nP6\\nP7\\nNaziv programa:\\nPretpranje\\nBrzo 30\u2019\\nDelikatno 40 \u00b0C\\nEko\\nLaka nega 60\u00b0C\\nSuper 50'\\nIntenzivni 65 \u00b0C\\nVrsta ostatka:\\nOdgovara \\nza ispiranje \\nsudova koje \\nplanirate \\nda perete \\nkasnije\\nOdgovara za \\nmanje prljave \\nsudove i brzo \\npranje.\"]"}
+{"model": "text-embedding-3-small", "id": 252, "input": "['Za malo prljave, \\ndelikatne \\nsudove.']"}
+{"model": "text-embedding-3-small", "id": 253, "input": "['Standardni \\nprogram za \\nsvakodnevno \\nnormalno \\nzaprljano \\nposu\u0111e sa \\nsmanjenom \\npotro\u0161njom \\nenergije i vode.']"}
+{"model": "text-embedding-3-small", "id": 254, "input": "['Odgovara \\nza normalno \\nprljave dnevno \\nkori\u0161\u0107ene \\nsudove.']"}
+{"model": "text-embedding-3-small", "id": 255, "input": "['Odgovara \\nza normalno \\nprljave dnevno \\nkori\u0161\u0107ene \\nsudove br\u017eim \\nprogramom.']"}
+{"model": "text-embedding-3-small", "id": 256, "input": "['Odgovara za \\nveoma prljave \\nsudove\\nNivo zaprljanosti:\\nMalo\\nMalo\\nMalo\\nSrednje\\nSrednje\\nSrednje\\nMnogo\\n\"Koli\u010dina \\ndeterd\u017eenta: \\nA: 25 cm3 \\nB: 15 cm3\"\\n-\\nA\\nA\\nA\\nA\\nA\\nA\\nTrajanje programa \\n(\u010d:min):\\n00:15\\n00:30\\n01:14\\n03:42\\n01:34\\n00:50\\n02:02\\nPotro\u0161nja elektri\u010dne \\nenergije (kWh / \\nciklus) :\\n0.020\\n0.670\\n0.800\\n0.965\\n1.320\\n1.000\\n1.600\\nPotro\u0161nja vode (litara \\n/ ciklus)\\n4.2\\n10.9\\n13.9\\n9.0\\n14.4\\n9.5\\n14.9\\n\\n27\\n\u2022\\nTrajanje programa mo\u017ee da se promeni u skladu sa koli\u010dinom sudova, temperaturom\\nvode, temperaturom prostora i izabranih dodatnih funkcija.']"}
+{"model": "text-embedding-3-small", "id": 257, "input": "['\u2022\\nVrednosti date za sve programe osim eko programa su samo indikativne.']"}
+{"model": "text-embedding-3-small", "id": 258, "input": "['\u2022\\nAko va\u0161 model ima senzor zamu\u0107enosti, umesto Intenzivnog programa ima Auto\\nprogram.']"}
+{"model": "text-embedding-3-small", "id": 259, "input": "['\u2022\\nEko program je pogodan za \u010di\u0161\u0107enje normalno zaprljanog posu\u0111a, tako da je za ovu\\nupotrebu najefikasniji program u pogledu kombinovane potro\u0161nje energije i vode,\\nodnosno koristi se za procenu usagla\u0161enosti sa EU zakonodavstvom o ekolo\u0161kom\\ndizajnu.']"}
+{"model": "text-embedding-3-small", "id": 260, "input": "['\u2022\\nPranje posu\u0111a u ma\u0161ini za pranje posu\u0111a obi\u010dno tro\u0161i manje energije i vode u fazi\\nupotrebe nego ru\u010dno pranje posu\u0111a kada se ma\u0161ina za pranje posu\u0111a koristi u skladu\\ns uputstvima proizvo\u0111a\u010da.']"}
+{"model": "text-embedding-3-small", "id": 261, "input": "['\u2022\\nZa kratke programe, koristite samo pra\u0161kasti deterd\u017eent.']"}
+{"model": "text-embedding-3-small", "id": 262, "input": "['\u2022\\nKratki programi ne uklju\u010duju su\u0161enje.']"}
+{"model": "text-embedding-3-small", "id": 263, "input": "['\u2022\\nZa bolje su\u0161enje, preporu\u010dujemo da blago otvorite vrata nakon \u0161to je ciklus zavr\u0161en.']"}
+{"model": "text-embedding-3-small", "id": 264, "input": "['\u2022\\nBazi podataka proizvoda u kojoj se \u010duvaju informacije o modelu mo\u017eete pristupiti\\n\u010ditanjem QR koda na energetskoj nalepnici.']"}
+{"model": "text-embedding-3-small", "id": 265, "input": "['NAPOMENA: Prema regulativama 1016/2010 i 1059/2010, vrednosti potro\u0161nje\\nenergije u eko programu mogu se razlikovati.']"}
+{"model": "text-embedding-3-small", "id": 266, "input": "['Ova tabela je u skladu sa regulativama \\n2019/2022 i 2017/2022.']"}
+{"model": "text-embedding-3-small", "id": 267, "input": "['KONTROLNA TABLA\\n9\\n8\\n1\\n3\\n2\\n7\\n6\\n5\\n4\\n1.']"}
+{"model": "text-embedding-3-small", "id": 268, "input": "['Dugme za izbor progra\\nIzaberite odgovaraju\u0107i program pritiskom\\ndugmeta za izbor programa.']"}
+{"model": "text-embedding-3-small", "id": 269, "input": "['Dugme za odlo\u017eeni po\u010det\\nMo\u017eete da odlo\u017eite vreme po\u010detka prog-\\nrama za 1-2...24 sati pritiskom dugmeta\\nza odlaganje (3) pre po\u010detka programa.']"}
+{"model": "text-embedding-3-small", "id": 270, "input": "['Ako \u017eelite da promenite vreme odlaganja,\\nnajpre pritisnite dugme za start/pauziranje,\\na zatim dugme za odlaganje da izaberete\\nnovo vreme odlaganja.']"}
+{"model": "text-embedding-3-small", "id": 271, "input": "['Pritisnite dugme\\nza start/pauziranje da biste aktivirali novo\\nvreme odlaganja.']"}
+{"model": "text-embedding-3-small", "id": 272, "input": "['Da biste otkazali odla-\\nganje potrebno je da prebacite na 0 \u010dasova\\nkoriste\u0107i dugme za odlaganje dok je ma\u0161ina\\nu re\u017eimu pauze\\n4.']"}
+{"model": "text-embedding-3-small", "id": 273, "input": "['Indikator preostalog vreme\\nTok programa se mo\u017ee pratiti preko lampica\\nza Pranje, Ispiranje, Su\u0161enje, Kraj i Indika-\\ntor preostalog vremena.']"}
+{"model": "text-embedding-3-small", "id": 274, "input": "['Ma\u0161ina ostaje tiha\\noko 40-50 minuta u odnosu na tok izabra-\\nnog programa.']"}
+{"model": "text-embedding-3-small", "id": 275, "input": "['Izborno dug\\nMo\u017eete odabrati opciju uzastopnim pritis-\\nkanjem opcionog dugmeta.']"}
+{"model": "text-embedding-3-small", "id": 276, "input": "['Izabrana opcija\\n\u0107e biti nazna\u010dena trep\u0107u\u0107im LED svetlom.']"}
+{"model": "text-embedding-3-small", "id": 277, "input": "['Izaberite opciju pritiskanjem Izbornog dug-\\nmeta.']"}
+{"model": "text-embedding-3-small", "id": 278, "input": "['LED svetlo izabrane opcije \u0107e ostati\\nda svetli.']"}
+{"model": "text-embedding-3-small", "id": 279, "input": "['Dugme opci\\nAko ste koristili dodatnu funkciju na najnovi-\\njem programu pranja, ova funkcija \u0107e ostati\\naktivna tako\u0111e tokom narednog programa\\npranja.']"}
+{"model": "text-embedding-3-small", "id": 280, "input": "['Ako \u017eelite da otka\u017eete ovu funkciju u\\nnovoizabranom programu pranja, pritisnite\\ndugme opcija za izbor opcije i pritisnite\\nizborno dugme za deaktiviranje odnosne\\nopcije ili isklju\u010dite ma\u0161inu dugmetom uklju\u010di/\\nislkju\u010di.']"}
+{"model": "text-embedding-3-small", "id": 281, "input": "['Ako \u017eelite da koristite dodatnu funk-\\nciju u novoizabranom programu, izaberite\\n\u017eeljene funkcije.']"}
+{"model": "text-embedding-3-small", "id": 282, "input": "['Dugme start/pauziran\\nPritisnite dugme za po\u010detak/pauziranje da\\nbiste pokrenuli program.']"}
+{"model": "text-embedding-3-small", "id": 283, "input": "['Lampica za pranje\\nse uklju\u010duje i Indikator preostalog vremena\\npokazuje trajanje programa.']"}
+{"model": "text-embedding-3-small", "id": 284, "input": "['Pokazuje i ko-\\nliko vremena je preostalo u toku programa.']"}
+{"model": "text-embedding-3-small", "id": 285, "input": "['Ako otvorite vrata ma\u0161ine kada program\\nradi, trajanje programa se zaustavlja, a\\nindikator Start / Pause treperi.']"}
+{"model": "text-embedding-3-small", "id": 286, "input": "['Indikator sredstva za ispiran\\nKada je nivo sredstva za ispiranje nizak,\\nindikator upozorenja o sredstvu za ispiranje\\nse uklju\u010duje i treba da napunite posudu za\\nsredstvo za ispiranje.']"}
+{"model": "text-embedding-3-small", "id": 287, "input": "['Indikator so\\nKada nedostaje soli za omek\u0161avanje vode,\\nindikator upozorenja za nedostatak soli se\\nuklju\u010duje da bi ukazao da je potrebno da\\nnapunite komoru za so.']"}
+{"model": "text-embedding-3-small", "id": 288, "input": "['NAPOMENA: Izborom opcije za pola \\npunjenja, mo\u017eete sprovesti tri vrste pranja: \\nobe korpe, gornja korpa i donja korpa.']"}
+{"model": "text-embedding-3-small", "id": 289, "input": "['Ove opcije su idealne za manja punjenja \\nomogu\u0107uju\u0107i sudoperi da obavi manja \\npranja uz smanjenu potro\u0161nju.']"}
+{"model": "text-embedding-3-small", "id": 290, "input": "['NAPOMENA: Izaberite opciju \\nDeterd\u017eent u tableti kada koristite kombino-\\nvani deterd\u017eent koji sadr\u017ei so, sredstvo za \\nispiranje ili ekstra funkcije.']"}
+{"model": "text-embedding-3-small", "id": 291, "input": "['NAPOMENA: Mo\u017eete odabrati opciju \\nHigijena da biste postigli \u010distiji proces pran-\\nja sa vi\u0161e higijene menjanjem temperature \\nvode i vremena pranja izabranog programa.']"}
+{"model": "text-embedding-3-small", "id": 292, "input": "['NAPOMENA: Ako je izabrana opci-\\nja Ispiranje, koraci pranja-ispiranja \u0107e se \\ndodati izabranom programu, tako da se \\nmo\u017eete osigurati da \u0107e va\u0161e posu\u0111e biti \\nekstra \u010disto i sjajno.']"}
+{"model": "text-embedding-3-small", "id": 293, "input": "['NAPOMENA: Ako su lampice za \\nSu\u0161enje uklju\u010dene, dodatni koraci zagre-\\nvanja i su\u0161enje \u0107e se dodati izabranom \\nprogramu, tako da \u0107e va\u0161e posu\u0111e biti \\ntemeljnije osu\u0161eno.']"}
+{"model": "text-embedding-3-small", "id": 294, "input": "['29\\n NAPOMENA: Za\u0161tita od dece se \\nuklju\u010duje/isklju\u010duje pritiskom na izborno \\ndugme  (5) na oko 3 sekunde.']"}
+{"model": "text-embedding-3-small", "id": 295, "input": "['Kada je \\nuklju\u010dena, sve lampice svetle i na Indikatoru \\npreostalog vremena se prikazuje \u201cCL\u201c.']"}
+{"model": "text-embedding-3-small", "id": 296, "input": "['NAPOMENA: Ako isklju\u010dite ma\u0161inu \\nnakon biranja vremena odlaganja i nakon \\n\u0161to program po\u010dne, vreme odlaganja se \\notkazuje.']"}
+{"model": "text-embedding-3-small", "id": 297, "input": "['Promena programa \\nAko \u017eelite da promenite program kada \\nma\u0161ina ve\u0107 radi.']"}
+{"model": "text-embedding-3-small", "id": 298, "input": "['Pritisnite dugme za \\nstart/Pauziranje.']"}
+{"model": "text-embedding-3-small", "id": 299, "input": "['Nakon \u0161to se program zaustavi, \\nizaberite \u017eeljeni program \\ndugmetom za biranje programa.']"}
+{"model": "text-embedding-3-small", "id": 300, "input": "['Pokrenite novoizabrani program \\npritiskom dugmeta za start/\\npauziranje.']"}
+{"model": "text-embedding-3-small", "id": 301, "input": "['Novi pokrenuti program \u0107e \\nnastaviti tok prethodnog \\nprograma.']"}
+{"model": "text-embedding-3-small", "id": 302, "input": "['Otkazivanje programa\\nAko \u017eelite da otka\u017eete program kada \\nma\u0161ina ve\u0107 radi.']"}
+{"model": "text-embedding-3-small", "id": 303, "input": "['Pritisnite dugme start/pauziranje\\nna 3 sekunde.']"}
+{"model": "text-embedding-3-small", "id": 304, "input": "['Tokom otkazivanja treperi \\nlampica za zavr\u0161etak.']"}
+{"model": "text-embedding-3-small", "id": 305, "input": "['Ma\u0161ina osloba\u0111a vodu u \\nsebi oko 30 sekundi.']"}
+{"model": "text-embedding-3-small", "id": 306, "input": "['Kada se uklju\u010di svetlo \\nKraj, pritisnite dugme za \\nIsklu\u010divanje/uklju\u010divanje \\nda isklju\u010dite ma\u0161inu.']"}
+{"model": "text-embedding-3-small", "id": 307, "input": "['Isklju\u010divanje ma\u0161ine\\nIzvucite utika\u010d iz uti\u010dnice.']"}
+{"model": "text-embedding-3-small", "id": 308, "input": "['Zatvorite slavinu \\nza vodu.']"}
+{"model": "text-embedding-3-small", "id": 309, "input": "['Isklju\u010dite ma\u0161inu dugmetom za uklju\u010divanje/\\nisklju\u010divanje nakon zavr\u0161etka programa i nakon \\n\u0161to lampica za Kraj zasvetli.']"}
+{"model": "text-embedding-3-small", "id": 310, "input": "['NAPOMENA: Nemojte da otvarate \\nvrata pre nego \u0161to se program zavr\u0161i.']"}
+{"model": "text-embedding-3-small", "id": 311, "input": "['NAPOMENA: Na kraju programa \\npranja mo\u017eete da ostavite vrata ma\u0161ine \\not\u0161krinuta da ubrzate su\u0161enje.']"}
+{"model": "text-embedding-3-small", "id": 312, "input": "['NAPOMENA: Ako su vrata ma\u0161ine \\notvorena ili je do\u0161lo do prekida napajanja \\ntokom pranja, program \u0107e se nastaviti  kada \\nse vrata zatvore ili kada se vrati dotok \\nnapajanja.']"}
+{"model": "text-embedding-3-small", "id": 313, "input": "['30\\t\\n\\n\\n\\n \u010cI\u0160\u0106ENJE I ODR\u017dAVANJE\\n\u010ci\u0161c\u0301enje ma\u0161ine za pranje sudova je va\u017eno \\nda biste odr\u017eali radni vek ma\u0161ine.']"}
+{"model": "text-embedding-3-small", "id": 314, "input": "['Proverite \\nda li je pode\u0161avanje omek\u0161avanja vode \\n(ako je dostupno) ispravno izvr\u0161eno i da \\nli se koristi ispravna koli\u010dina deterd\u017eenta \\nza spre\u010davanje nakupljanja kamenca.']"}
+{"model": "text-embedding-3-small", "id": 315, "input": "['Napunite odeljak soli kada se upali lampica \\nsenzora soli.']"}
+{"model": "text-embedding-3-small", "id": 316, "input": "['Ulje i kamenac se mogu vremenom \\nnakupiti u va\u0161oj ma\u0161ini za pranje \\nsudova.']"}
+{"model": "text-embedding-3-small", "id": 317, "input": "['Ako do\u0111e do toga:\\n\u2022\\t\\nNapunite pretinac za deterd\u017eent, ali ne\\nstavljajte posu\u0111e.']"}
+{"model": "text-embedding-3-small", "id": 318, "input": "['Izaberite program koji\\nradi na visokoj temperaturi i uklju\u010dite\\nma\u0161inu za pranje sudova.']"}
+{"model": "text-embedding-3-small", "id": 319, "input": "['Ako ovo ne\\no\u010disti dovoljno ma\u0161inu za pranje sudova,\\nkoristite sredstvo za \u010di\u0161c\u0301enje koje je\\ndizajnirano za upotrebu u ma\u0161inama za\\npranje sudova.']"}
+{"model": "text-embedding-3-small", "id": 320, "input": "['\u2022\\t\\nDa biste produ\u017eili vek ma\u0161ine za pranje\\nsudova, \u010distite ure\u0111aj redovno svakog\\nmeseca\\n\u2022\\t\\nRedovno bri\u0161ite dihtunge vrata vla\u017enom\\nkrpom da biste uklonili nagomilane\\nostatke ili strane predmete.']"}
+{"model": "text-embedding-3-small", "id": 321, "input": "['Filteri\\nO\u010distite filtere i prskalice najmanje jednom \\nnedeljno.']"}
+{"model": "text-embedding-3-small", "id": 322, "input": "['Ako na grubim i finim filterima \\nostanu bilo kakvi ostaci hrane ili strani \\npredmeti, uklonite ih i temeljno o\u010distite \\nvodom.']"}
+{"model": "text-embedding-3-small", "id": 323, "input": "['a) Mikro filter\\t\\nb) \\x07\\nGrubi filter\\nc) Metalni filter\\n3\\n4\\n1\\n2\\na\\nc\\nb\\nDa biste uklonili i o\u010distili kombinaciju filtera, \\nokrenite je u smeru suprotnom od kazaljke \\nna satu i izvadite je podi\u017euc\u0301i prema gore \\n(1).']"}
+{"model": "text-embedding-3-small", "id": 324, "input": "['Izvucite grubi filter iz mikro filtera (2).']"}
+{"model": "text-embedding-3-small", "id": 325, "input": "['Zatim izvucite i uklonite metalni filter (3).']"}
+{"model": "text-embedding-3-small", "id": 326, "input": "['Isplaknite sa mnogo vode dok se ne o\u010diste \\nostaci.']"}
+{"model": "text-embedding-3-small", "id": 327, "input": "['Zamenite \\nulo\u017eak filtera, i okrenite ga u smeru kazaljki \\nna satu (4).']"}
+{"model": "text-embedding-3-small", "id": 328, "input": "['\u2022\\t\\nNikada ne koristite ma\u0161inu za pranje\\nsudova bez filtera.']"}
+{"model": "text-embedding-3-small", "id": 329, "input": "['\u2022\\t\\nNepravilno postavljanje filtera umanjic\u0301e\\nefikasnost pranja.']"}
+{"model": "text-embedding-3-small", "id": 330, "input": "['\u2022\\t\\n\u010cisti filtri su neophodni za pravilno\\nfunkcionisanje ma\u0161ine.']"}
+{"model": "text-embedding-3-small", "id": 331, "input": "['Prskalice\\nPazite da se otvori prskalica ne za\u010depe i da \\nse na prskalice ne zalepe ostaci hrane ili \\nstrani predmeti.']"}
+{"model": "text-embedding-3-small", "id": 332, "input": "['Ako do\u0111e do za\u010depljenja, \\nuklonite prskalice i o\u010distite ih pod vodom \\nDa biste uklonili gornju prskalicu, otpustite \\nmaticu koja je dr\u017ei u mestu okrec\u0301uc\u0301i je u \\nsmjeru kazaljke na satu i povucite je prema \\ndole.']"}
+{"model": "text-embedding-3-small", "id": 333, "input": "['Proverite da li je matica pravilno \\nzategnuta prilikom ponovno postavljanja \\ngornje prskalice.']"}
+{"model": "text-embedding-3-small", "id": 334, "input": "['31\\n Odvodna pumpa\\nVeliki ostaci hrane ili strani predmeti koje \\nfiltri nisu prihvatili mogu blokirati pumpu za \\notpadnu vodu.']"}
+{"model": "text-embedding-3-small", "id": 335, "input": "['Voda za ispiranje tada c\u0301e biti \\niznad filtera.']"}
+{"model": "text-embedding-3-small", "id": 336, "input": "['Prilikom \u010di\u0161c\u0301enja pumpe za otpadnu \\nvodu vodite ra\u010duna da se ne povredite \\nna komadima slomljenog stakla ili o\u0161trim \\npredmetima.']"}
+{"model": "text-embedding-3-small", "id": 337, "input": "['U ovom slu\u010daju:\\n1.']"}
+{"model": "text-embedding-3-small", "id": 338, "input": "['Uvek prvo isklju\u010dite aparat iz napajanja.']"}
+{"model": "text-embedding-3-small", "id": 339, "input": "['Odstranite vodu; koristite sun\u0111er ako je\\npotrebno.']"}
+{"model": "text-embedding-3-small", "id": 340, "input": "['5.Proverite povr\u0161inu i uklonite sve strane\\npredmete.']"}
+{"model": "text-embedding-3-small", "id": 341, "input": "['32\\nSRPSKI\\nKODOVI GRE\u0160AKA I KAKO DA IH ODSTRANITE\\nKOD GRE\u0160KE\\nOPIS GRE\u0160KE\\nRE\u0160ENJE\\nF5\\nF3\\nF2\\nF8\\nF1\\nFE\\nF7\\nF9\\nF6\\nNeadekvatan dovod vode\\nNekontinuiran dovod vode\\nNe radi odvod  vode u\\nma\u0161ini.']"}
+{"model": "text-embedding-3-small", "id": 342, "input": "['Gre\u0161ka na greja\u010du\\nAktiviran  alarm za vi\u0161ak\\nvode\\nGre\u0161ka na elektronskoj\\nkartici\\n.']"}
+{"model": "text-embedding-3-small", "id": 343, "input": "['(temp\\nGre\u0161ka pregrejavanja\\nu ma\u0161ini je prevelika)\\nGre\u0161ka na poziciji razdelnika\\nGre\u0161ka na senzoru greja\u010da\\n\u2022 Proverite da li je dovod vode u potpunosti otvoren\\nZatvorite dovod vode, odspojite crevo za dovod vode i o\u010distite filter koji se\\nnalazi na kraju creva.']"}
+{"model": "text-embedding-3-small", "id": 344, "input": "['Ponovno pokrenite ma\u0161inu, ukoliko je problem jo\u0161 uvek prisutan kontaktirajte\\novla\u0161\u0107enog servisera.']"}
+{"model": "text-embedding-3-small", "id": 345, "input": "['\u2022\\n\u2022\\nKontaktirajte ovla\u0161\u0107enog servisera.']"}
+{"model": "text-embedding-3-small", "id": 346, "input": "['\u2022 Zatvorite dovod vode.']"}
+{"model": "text-embedding-3-small", "id": 347, "input": "['\u2022\\n\u2022 Crevo za odvod vode je za\u010depljeno.']"}
+{"model": "text-embedding-3-small", "id": 348, "input": "['Filteri ma\u0161ine su za\u010depljeni.']"}
+{"model": "text-embedding-3-small", "id": 349, "input": "['Isklju\u010dite, ponovo uklju\u010dite ma\u0161inu i aktivirajte program za poni\u0161t.']"}
+{"model": "text-embedding-3-small", "id": 350, "input": "['Ukoliko je problem jo\u0161 uvek prisutan kontaktirajte ovla\u0161\u0107enog servisera.']"}
+{"model": "text-embedding-3-small", "id": 351, "input": "['\u2022\\n\u2022\\n\u2022\\n\u2022\\n\u2022\\n.']"}
+{"model": "text-embedding-3-small", "id": 352, "input": "['sklju\u010dite ma\u0161inu i zatvorite dovod vode.']"}
+{"model": "text-embedding-3-small", "id": 353, "input": "['I\\nKontaktirajte ovla\u0161\u0107enog servisera\\n\u2022 Elektronska kartica ne mo\u017ee da zadr\u017ei zadane varijable u memoriji zbog\\niznenadnog pada napona.']"}
+{"model": "text-embedding-3-small", "id": 354, "input": "['Program \u0107e da se obnovi kada ponovo pokrenete ma\u0161\\n.']"}
+{"model": "text-embedding-3-small", "id": 355, "input": "['\u2022\\nKontaktirajte ovla\u0161\u0107enog servisera.']"}
+{"model": "text-embedding-3-small", "id": 356, "input": "['33\\nAko je jedno od svetala na signalizaciji programa upaljeno, a svetlo na tasteru\\nStart/Pause se pali, gasi:\\nUkoliko program ne\u0107e da zapo\u010dne sa pranjem\\nzavr\u0161etka\\nUkoliko je ostalo deterd\u017eenta u odeljku za deterd\u017eent\\n\u017e\\nUkoliko po zavr\u0161etku pranja u ma\u0161ini ostane vode\\nUkoliko ma\u0161ina stane za vreme pranja\\nUkoliko za vreme pranja va\u0161a ma\u0161ina proizvodi  buku (trese se i lupa)\\nVrata ma\u0161ine nisu dobro zatvorena.']"}
+{"model": "text-embedding-3-small", "id": 357, "input": "['\u2022 Proverite da li je ma\u0161ina  priklju\u010dena na napajanje.']"}
+{"model": "text-embedding-3-small", "id": 358, "input": "['\u2022 Proverite da li je dovod vode otvoren.']"}
+{"model": "text-embedding-3-small", "id": 359, "input": "['\u2022 Proverite da li su vrata ma\u0161ine dobro zatvorena.']"}
+{"model": "text-embedding-3-small", "id": 360, "input": "['\u2022 Proverite da mo\u017eda niste isklju\u010dite ma\u0161inu pritiskom na taster On/Off.']"}
+{"model": "text-embedding-3-small", "id": 361, "input": "['\u2022 Proverite da mo\u017eda  filter na crevu za dovod vode nije zalepljen.']"}
+{"model": "text-embedding-3-small", "id": 362, "input": "['Isklju\u010dite ma\u0161inu pritiskom na taster On/Off.']"}
+{"model": "text-embedding-3-small", "id": 363, "input": "['Kada ste u ma\u0161inu dodavali deterd\u017eent, odeljak za deterd\u017eent nije bio suv ili je okretna\\nmlaznica za vreme pranja bila zaglavljena delovima posu\u0111a.']"}
+{"model": "text-embedding-3-small", "id": 364, "input": "['\u2022 Crevo za odvod  vode je zalepljeno  ili savijeno\\n\u2022 Filteri su zalepljeni\\n\u2022 Program pranja jo\u0161 uvek nije zavr\u0161en\\n\u2022 Nestalo je napajanja\\n\u2022 Gre\u0161ka na dovodu vode\\n\u2022 Mogu\u0107e je da je program u stanju mirovanja\\n\u2022 Nepravilno ste rasporedili posu\u0111e po korpama ma\u0161ine\\n\u2022 Mlaznice za raspr\u0161ivanje  vode udaraju po posu\u0111u\\nUkoliko se kontrolna lampica ne gasi nakon\\npranja\\n\u010d\\nAUTOMATSKA UPOZORENJA O GRE\u0160KAMA I \u0160TA U\u010cINITI\\nPostupke instalacije i popravke uvek treba izvr\u0161iti ovla\u0161\u0107eni serviser kako bi se izbegli \\neventualni rizici.']"}
+{"model": "text-embedding-3-small", "id": 365, "input": "['Proizvo\u0111a\u010d ne snosi odgovornost za \u0161tetu koja mo\u017ee proiza\u0107i iz \\npostupaka koji su sprovela neovla\u0161\u0107en lica.']"}
+{"model": "text-embedding-3-small", "id": 366, "input": "['Popravke sme izvoditi samo tehni\u010dar.']"}
+{"model": "text-embedding-3-small", "id": 367, "input": "['Ako se \\nodre\u0111ena komponenta mora zameniti, vodite ra\u010duna da koristite samo originalne \\nrezervne delove.']"}
+{"model": "text-embedding-3-small", "id": 368, "input": "['Nepravilne popravke ili upotreba neoriginalnih rezervnih delova mogu prouzrokovati \\nznatna o\u0161te\u0107enja i izlo\u017eiti korisnika zna\u010dajnom riziku.']"}
+{"model": "text-embedding-3-small", "id": 369, "input": "['Podaci za kontakt za va\u0161u korisni\u010dku slu\u017ebu mogu se na\u0107i na pole\u0111ini ovog dokumenta.']"}
+{"model": "text-embedding-3-small", "id": 370, "input": "['Originalni rezervni delovi koji se odnose na funkciju u skladu sa odgovaraju\u0107om \\nnarud\u017ebinom za Eko-dizajn mogu se dobiti od Slu\u017ebe za korisnike u periodu od \\nnajmanje 10 godina od datuma kada je va\u0161 ure\u0111aj plasiran na tr\u017ei\u0161te u Evropskom \\nekonomskom prostoru.']"}
+{"model": "text-embedding-3-small", "id": 371, "input": "['Ukoliko na posu\u00f1u primetite mrlje od \u2018r\u00f1e\\n\u2022 Kvalitet materijala posu\u00f1a nije adekvatan za pranje u ma\u0161ini\\n\u2022 U vodi za ispiranje prisutna je prevelika koncentracija soli\\n\u2022 Odeljak za sol nije dobro zatvoren\\n\u2022 Prosuli ste sol po ma\u0161inii tokom dodavanja soli u odeljak za sol\\n\u2022 Nepravilno izvedeno uzemljenje\\nU slu\u010daju da problem i dalje postoji nakon \u0161to ste pregledali gore navedene \\nuzroke nepravilinosti, obratite se za pomo\u0107 ovla\u0161\u0107enom serviseru.']"}
+{"model": "text-embedding-3-small", "id": 372, "input": "['34\\nUkoliko se posu\u00f1e ne su\u0161i\\n\u2022 Odabrali ste program bez dodatne opcije su\u0161enja\\n\u2022 Nedostatak sredstva za ispiranje u ma\u0161ini\\n\u2022 Prebrzo ste izvadili posu\u00f1e iz ma\u0161ine\\nUkoliko nakon pranja na posu\u0111u ostane hrane\\nUkoliko ostaju mrlje na posu\u0111u\\n\u2022 Nepravilno ste rasporedili posu\u0111e unutar ma\u0161ine; voda ne mo\u017ee da do\u0111e do\\nodgovaraju\u0107ih mesta kako bi posu\u0111e u potpunosti bilo oprano\\n\u2022 Korpe su prepunjene posu\u0111em\\n\u2022 Posu\u0111e je postavljeno nasuprot jedno drugom\\n\u2022 Dodali ste nedovoljnu koli\u010dinu deterd\u017eenta\\n\u2022 Odabrali ste neprikladan program pranja\\n\u2022 Otvori za vodu na mlaznicama zalepljeni  su ostacima hrane\\n\u2022 Filteri su zalepljeni\\n\u2022 Filteri su neispravno postavljeni u ma\u0161inu\\n\u2022 Crevo za odvod vode je zalepljeno\\n\u2022 Dodali ste nedovoljnu koli\u010dinu  deterd\u017eenta\\n\u2022 Proverite koli\u010dinu sredstva za ispiranje u ma\u0161ini\\n\u2022 Niste koristili specijalne soli kojima bi otklonili tvrdo\u0107u  va\u0161e vode\\n\u2022 Sistem za omek\u0161avanje vode je na malom nivou\\n\u2022 Poklopac odeljka za sol nije dobro pri\u010dvr\u0161\u0107en\u0107en.']"}
