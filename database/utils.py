@@ -314,11 +314,8 @@ def load_and_process_embeddings(path: Path) -> List[PointStruct]:
         raise
 
     points = []
-    # print(embedding_data)
-    # print("!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!")
+
     for item in embedding_data:
-        print(item[1])
-        print("!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!")
         try:
             points.append(
                 PointStruct(
