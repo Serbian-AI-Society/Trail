@@ -1,17 +1,3 @@
-# from openai import OpenAI
-# client = OpenAI()
-
-# def voice_prompt_print():
-#     audio_file = open("c:/Users/HP/Documents/Sound recordings/Mikrotalasna_ne_radi.m4a", "rb")
-#     transcription = client.audio.transcriptions.create(
-#     model="whisper-1", 
-#     file=audio_file, 
-#     response_format="text"
-#     )
-#     print(transcription)
-
-# whisper_stt.py
-
 from streamlit_mic_recorder import mic_recorder
 import streamlit as st
 import io
@@ -19,7 +5,7 @@ from openai import OpenAI
 import os
 
 
-def whisper_stt(openai_api_key=None, start_prompt="Start recording", stop_prompt="Stop recording", just_once=False,
+def whisper_stt(openai_api_key=None, start_prompt="Glasovni unos", stop_prompt="Završi unos", just_once=False,
                use_container_width=False, language=None, callback=None, args=(), kwargs=None, key=None):
     if not 'openai_client' in st.session_state:
         st.session_state.openai_client = OpenAI(api_key=openai_api_key or os.getenv('OPENAI_API_KEY'))
