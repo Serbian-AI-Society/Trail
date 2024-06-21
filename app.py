@@ -1,6 +1,7 @@
 import streamlit as st
 import os
 from streamlit_mic_recorder import mic_recorder
+from streamlit_extras.bottom_container import bottom
 from dotenv import find_dotenv, load_dotenv
 
 from llm.prompts import INTRODUCTION_MESSAGE
@@ -25,6 +26,9 @@ st.set_page_config(page_title="Tvoj licni majstor", page_icon=LOGO_URL)
 st.image(LOGO_TEXT_URL)
 qdrant_client = initialize_clients()
 config = load_config()
+
+with open('style.css') as f:
+   st.markdown(f'<style>{f.read()}</style>', unsafe_allow_html=True)
 
 # Display the logo and set up the sidebar with useful information and links.
 # st.image(LOGO_TEXT_URL, width = 400)
@@ -51,8 +55,9 @@ if "messages" not in st.session_state:
 # Display all chat messages stored in the session state.
 for message in st.session_state.messages:
     with st.chat_message(message["role"]):
-        html_content = f"<span style='font-size: 24px;'>{message['content']}</span>"
-        st.html(html_content)
+        # html_content = f"<span style='font-size: 24px;'>{message['content']}</span>"
+        # st.html(html_content)
+        st.markdown(message["content"])
 
 def process_message(text):
   # Append user message to session state.
@@ -60,8 +65,9 @@ def process_message(text):
 
   # Display user message in chat container.
   with st.chat_message("user"):
-    html_content = f"<span style='font-size: 24px;'>{text}</span>"
-    st.html(html_content)
+    # html_content = f"<span style='font-size: 24px;'>{text}</span>"
+    # st.html(html_content)
+    st.markdown(text)
 
   # Generate response and display it.
   with st.chat_message("assistant"):
@@ -71,8 +77,8 @@ def process_message(text):
   # Append assistant's response to session state.
   st.session_state.messages.append({"role": "assistant", "content": response})
 
-with st._bottom:
-   voice_prompt = whisper_stt(openai_api_key=os.getenv("OPENAI_API_KEY"))
+with bottom():
+   voice_prompt = whisper_stt(openai_api_key=os.getenv("OPENAI_API_KEY"), use_container_width=True)
 
 if prompt := st.chat_input("Pomozi mi sa..."):
   process_message(prompt)

@@ -3,6 +3,7 @@ import subprocess
 from pathlib import Path
 from typing import Dict, List, Union
 
+import os
 import numpy as np
 import tiktoken
 from langfuse.decorators import observe
@@ -20,7 +21,9 @@ from qdrant_client.http.models import (
 )
 from tqdm.auto import tqdm
 
-openai.verify_ssl_certs = False
+
+# openai.verify_ssl_certs = False
+# os.environ["REQUESTS_CA_BUNDLE"] = "E:\\finale\\Trail\\GTS Root R1.crt"
 
 def create_collection(
     client: QdrantClient,
@@ -320,7 +323,7 @@ def load_and_process_embeddings(path: Path) -> List[PointStruct]:
             points.append(
                 PointStruct(
                     id=item[0]["id"],
-                    vector=item[1]["data"][0]["embedding"],
+                    vector=item[1]["data"][0]["embedding"], #I've changed this
                     payload={
                         # "title": item[0]["title"],
                         "text": item[0]["input"],

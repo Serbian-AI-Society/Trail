@@ -5,7 +5,7 @@ from openai import OpenAI
 import os
 
 
-def whisper_stt(openai_api_key=None, start_prompt="Glasovni unos", stop_prompt="Završi unos", just_once=False,
+def whisper_stt(openai_api_key=None, start_prompt="Glasovni unos 🎤", stop_prompt="Završi unos 🛑", just_once=False,
                use_container_width=False, language=None, callback=None, args=(), kwargs=None, key=None):
     if not 'openai_client' in st.session_state:
         st.session_state.openai_client = OpenAI(api_key=openai_api_key or os.getenv('OPENAI_API_KEY'))
