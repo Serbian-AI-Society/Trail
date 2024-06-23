@@ -4,6 +4,9 @@ Home Appliance Bot is an innovative project designed to assist users in navigati
 
 Utilizing a combination of RAG (Retrieval-Augmented Generation) technology and a deep knowledge base of appliance manuals, this bot can intelligently reference relevant user guides during interactions. It offers an interactive platform for querying appliance information, making it a valuable tool for homeowners, technicians, and anyone needing quick insights into appliance operations and troubleshooting.
 
+![image](https://github.com/Serbian-AI-Society/Trail/assets/156609103/a7e382b2-1720-4952-bb53-adf52f59ec28)
+
+
 Setup involves **Poetry** for dependency management, **Qdrant** for vector database functionality, and **Langfuse** for enhancing chatbot performance, ensuring a robust and efficient user experience.
 
 ## Setting Up the Project
