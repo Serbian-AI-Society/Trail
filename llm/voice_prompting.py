@@ -2,7 +2,10 @@ from streamlit_mic_recorder import mic_recorder
 import streamlit as st
 import io
 from openai import OpenAI
+import pyaudio
 import os
+import time
+
 
 
 def whisper_stt(openai_api_key=None, start_prompt="Glasovni unos 🎤", stop_prompt="Završi unos 🛑", just_once=False,
@@ -54,3 +57,23 @@ def whisper_stt(openai_api_key=None, start_prompt="Glasovni unos 🎤", stop_pro
     if new_output and callback:
         callback(*args, **(kwargs or {}))
     return output
+
+def stream_to_speakers(stream=int, openai_api_key=None, model="tts-1", voice="alloy") -> None:  
+     if not 'openai_client' in st.session_state:
+        st.session_state.openai_client = OpenAI(api_key=openai_api_key or os.getenv('OPENAI_API_KEY'))
+  
+     player_stream = pyaudio.PyAudio().open(format=pyaudio.paInt16, channels=1, rate=24000, output=True) 
+  
+     start_time = time.time() 
+  
+     with st.session_state.openai_client.audio.speech.with_streaming_response.create( 
+         model=model, 
+         voice=voice, 
+         response_format="pcm",  # similar to WAV, but without a header chunk at the start. 
+         input=stream, 
+     ) as response: 
+         print(f"Time to first byte: {int((time.time() - start_time) * 1000)}ms") 
+         for chunk in response.iter_bytes(chunk_size=1024): 
+             player_stream.write(chunk) 
+  
+     print(f"Done in {int((time.time() - start_time) * 1000)}ms.") 

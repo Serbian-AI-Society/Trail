@@ -5,7 +5,7 @@ from streamlit_extras.bottom_container import bottom
 from dotenv import find_dotenv, load_dotenv
 
 from llm.prompts import INTRODUCTION_MESSAGE
-from llm.voice_prompting import whisper_stt
+from llm.voice_prompting import whisper_stt, stream_to_speakers
 from utils import (
     generate_response,
     initialize_clients,
@@ -22,7 +22,7 @@ load_dotenv(find_dotenv())
 
 
 # Set Streamlit page configuration with custom title and icon.
-st.set_page_config(page_title="Tvoj licni majstor", page_icon=LOGO_URL)
+st.set_page_config(page_title="Tvoj digitalni majstor", page_icon=LOGO_URL)
 st.image(LOGO_TEXT_URL)
 qdrant_client = initialize_clients()
 config = load_config()
@@ -34,10 +34,12 @@ with open('style.css') as f:
 # st.image(LOGO_TEXT_URL, width = 400)
 st.logo(LOGO_TEXT_URL, icon_image=LOGO_URL)
 with st.sidebar:
+    # Add sidebar switch for audio playback
+    play_audio = st.sidebar.toggle("Audio odgovor", value=False, help = "Ako uključeno Laik će odgvoriti glasovnom porukom.")  # Default to "off"
+    
     st.subheader("💡 Primer pitanja")
     with st.container(border=True, height=250):
         st.markdown(QUERY_SUGGESTIONS)
-        # voice_prompt = whisper_stt(openai_api_key=os.getenv("OPENAI_API_KEY"))
 
     st.subheader("⚠️ Upozorenje")
     with st.container(border=True):
@@ -73,6 +75,9 @@ def process_message(text):
   with st.chat_message("assistant"):
     stream = generate_response(query=text, qdrant_client=qdrant_client, config=config)
     response = st.write_stream(stream)
+    # Play audio based on switch state
+    if play_audio:
+        stream_to_speakers(stream=response)
 
   # Append assistant's response to session state.
   st.session_state.messages.append({"role": "assistant", "content": response})

@@ -26,17 +26,16 @@ Ovaj chatbot je namenjen pružanju osnovnih saveta za rešavanje problema sa ku�
 """
 
 QUERY_SUGGESTIONS = """
-Moja LG veš mašina neće da započne ciklus pranja i na ekranu piše "dE1". Šta da radim? \n
-Kupio sam novu mikrotalasnu i ne znam kako da je uključim. \n
-Pokušavam uključiti rernu ali mi nisu jasne instrukcije na ekranu. Šta da radim?\n
-Frižider ne hladi kako treba, da li je pokvaren?\n
-Veš mašina mi samo gužva odeću, šta da radim?\n
+Imam VOX mikrotalasnu, za šta služi Mikro/Grill/Kombi dugme?\n
+Moja VOX mikrotalasna se ne može pokrenuti.\n
+Kupio sam novu VOX mašinu za suđe i ne znam kako da je uključim.\n
+Imam VOX mašinu za suđe, kako ubacujem posuđe?\n
 """
 
 AUTHORS = """
-**Research Engineer:** Emil Mijatov\n
-**Research Engineer:** Aleksa Skoric\n
-**Research Engineer:** Lazar Radosavljev
+**Research Engineer:** [Emil Mijatov](https://www.linkedin.com/in/emil-mijatov-974a73201)\n
+**Research Engineer:** [Aleksa Skoric](https://www.linkedin.com/in/aleksa-škorić-0502b2197)\n
+**Research Engineer:** [Lazar Radosavljev](https://www.linkedin.com/in/lazar-radosavljev-389b42250)
 """
 
 
