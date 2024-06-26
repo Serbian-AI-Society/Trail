@@ -129,7 +129,7 @@ async def process_api_requests_from_file(
     logging.basicConfig(level=logging_level)
     logging.debug(f"Logging initialized at level {logging_level}")
 
-    api_key = "sk-proj-uSDVaRkLibkLtk2cJ164T3BlbkFJXyfcADStLInSmCYt3JGz"
+    api_key = os.getenv("OPENAI_API_KEY")
 
     # infer API endpoint and construct request header
     api_endpoint = api_endpoint_from_url(request_url)
@@ -462,7 +462,7 @@ if __name__ == "__main__":
     parser.add_argument("--requests_filepath")
     parser.add_argument("--save_filepath", default=None)
     parser.add_argument("--request_url", default="https://api.openai.com/v1/embeddings")
-    parser.add_argument("--api_key", default="sk-proj-uSDVaRkLibkLtk2cJ164T3BlbkFJXyfcADStLInSmCYt3JGz")#os.getenv("OPENAI_API_KEY"))
+    parser.add_argument("--api_key", default=os.getenv("OPENAI_API_KEY"))
     parser.add_argument("--max_requests_per_minute", type=int, default=3_000 * 0.5)
     parser.add_argument("--max_tokens_per_minute", type=int, default=250_000 * 0.5)
     parser.add_argument("--token_encoding_name", default="cl100k_base")
